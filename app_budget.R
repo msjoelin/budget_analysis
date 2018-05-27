@@ -24,8 +24,7 @@ library(shinydashboard)
 ########################## READ IN AND PREPARE DATA ##########################
 
 # Read in budgetdata
-# budgetdata<-read.delim("https://raw.githubusercontent.com/msjoelin/swedish_politic/master/budgetdata.csv", header=TRUE, sep=";")
-budgetdata<-read.delim("budgetdata.csv", header=TRUE, sep=";")
+budgetdata<-read.delim("https://raw.githubusercontent.com/msjoelin/budget_analysis/master/budgetdata.csv", header=TRUE, sep=";")
 
 # Fit formats
 budgetdata$Year<-as.factor(budgetdata$Year)
@@ -51,12 +50,14 @@ budgetdata_diff<-budgetdata %>% left_join(budgetdata, by=c("Year", "Type", "Budg
                          party_col=ifelse(Diff_MSEK_sign>0,as.character(Party.x),as.character(Party.y))) %>%
                   filter(Party.x!=Party.y)
 
+budgetarea_with_diff<-
+  budgetdata %>% 
+    group_by(Year, Budget_Area) %>%
+    summarize(maxSEK=max(SEK), minSEK=min(SEK)) %>%
+    mutate(diff_minmax=abs(maxSEK-minSEK)/1000000) %>%
+    filter(diff_minmax>1)
+  
 
-# Read in historical BNP and budget data
-data_hist<-read.delim("economy_historic.csv", header=TRUE, sep=",")
-data_hist<-mutate(data_hist, 
-                  Budgetsaldo_Percentage=round((Inkomster-Utgifter)/Utgifter,3)*100,
-                  Budgetsaldo_sign=ifelse(Inkomster-Utgifter>0, "g","r"))
 
 # Set theme and define color vector
 old<-theme_set(theme_light())
@@ -67,10 +68,11 @@ year_col<-c("2015"="sky blue", "2016"="dodgerblue3", "2017"="blue4", "2018"="pur
 ################# UI (DASHBOARD LAYOUT)  ########################
 
 ui<-dashboardPage(
-  dashboardHeader(title="Politics"),
+  dashboardHeader(title="Analys Budgetmotioner"),
   dashboardSidebar(
     sidebarMenu(
-      menuItem("Totalt", tabName = "totalBudget", icon=icon("dashboard")),
+      menuItem("Budget", tabName="budget", icon=icon("pie-chart")),
+      menuItem("Totalt intäkter/utgifter", tabName = "totalBudget", icon=icon("dashboard")),
       menuItem("Skillnader per Budgetområde", tabName = "diffBudgetArea", icon=icon("th")),
       menuItem("Jämför två budgetar", tabName = "diffTwoParties", icon=icon("exchange")),
       menuItem("Skillnader över tid", tabName = "diffHistoric", icon=icon("area-chart"))
@@ -78,30 +80,41 @@ ui<-dashboardPage(
 
   dashboardBody(
     tabItems(
+      
+    # Tab 1: Totalt budget område fördelning  
+    tabItem(tabName="budget", 
+            h2("Budgetanslag per utgiftsområde, parti och år"),
+            fluidRow(
+              column(4,
+                     radioButtons(inputId = "parti_tot", choices=levels(budgetdata$Party), label="Parti", selected="Redgreen")),
+              column(4,
+                     radioButtons(inputId = "year_tot", choices=levels(budgetdata$Year), label="År", selected=2018))
+            ),
+            plotOutput("budget_omr")
+            ),
   
-    # Tab1: Total Expense and Income per Year and Party
+    # Tab2: Total Expense and Income per Year and Party
     tabItem(tabName = "totalBudget",
-    fluidRow(
-      column(10, plotOutput("total"))
-    )
+            h3("Totalt utgifter och intäkter per budget och år"),
+    fluidRow(plotOutput("total")),
+            h3("Total Budgetbalans (Intäkter - Utgifter) per budget och år"),
+    fluidRow(plotOutput(("totalnetto")))
     ),
     
-    # Tab2: Difference per budget area
+    # Tab3: Difference per budget area
     tabItem(tabName = "diffBudgetArea",
+            h2("Jämförelse per budgetområde"),
+            h3("Tabellen visar hur varje partis budget avviker från medelvärdet över alla budgetar i Miljarder SEK"),
+            h3("Positiva värden innebär att det partiet satsar mer än medelbudgeten"),
             fluidRow(
               column(4, 
-                     radioButtons(inputId = "year_total", choices=levels(budgetdata$Year), label="År", inline=TRUE, selected=2018)),
-              column(4,
-                     radioButtons(inputId="type_total", choices=levels(budgetdata$Type), label="Typ", inline=TRUE)),
-              column(4,
-                     selectInput("top_n_area", h5("Antalet budgetområden att visa"), 
-                                 choices=c(5:15), selected=10))
+                     radioButtons(inputId = "year_total", choices=levels(budgetdata$Year), label="År", inline=TRUE, selected=2018))
             ),
             fluidRow(plotOutput("diffBudgetAreaPlot")
             )
     ),
     
-    # Tab3: Difference between two parties
+    # Tab4: Difference between two parties
     tabItem(tabName="diffTwoParties", 
             h2("Skillnad mellan två partier per budgetområde"),
             fluidRow(
@@ -121,9 +134,11 @@ ui<-dashboardPage(
             fluidRow(plotOutput("partydiff_lolli"))
     ),
   
-  # Tab4: Difference over time 
+  # Tab5: Difference over time 
     tabItem(tabName = "diffHistoric",
-            h2("Utveckling av skillnader i budgeten"),
+            h2("Jämförelse mellan partier"),
+            h3("Graferna visar hur skillnaderna mellan ett valt partis budget jämfört med övriga har utvecklats över åren"),
+            h3("Beräkningen sker genom att summera den absoluta skillnaden för varje budgetområde"),
             fluidRow(
               column(1, 
               box(
@@ -144,18 +159,20 @@ ui<-dashboardPage(
 server<-function(input, output) {
   
   # Define top n budget areas (input from user interface)
-  top_n_budgetarea<-reactive({
+  
+  output$budget_omr <- renderPlot({
     
-    top_n_budgetarea_df<-budgetdata %>% 
-    group_by(Year, Budget_Area) %>%
-    summarize(maxSEK=max(SEK), minSEK=min(SEK)) %>%
-    mutate(diff_minmax=abs((maxSEK-minSEK)/maxSEK)) %>%
-    filter(Year==input$year_total) %>%
-    top_n(as.numeric(input$top_n_area))
+    budgetdata %>% 
+      filter(Party==input$parti_tot & Year==input$year_tot & Type=="Expense") %>%
+      ggplot(aes(x=reorder(Budget_Area, SEK), fill=Party, y=SEK/1000000))+
+      geom_col()+
+      scale_fill_manual(values=party_col)+
+      xlab("")+ylab("Miljarder SEK")+
+      theme(text = element_text(size=16),
+            legend.position="none")+
+      coord_flip()
     
-    unique(top_n_budgetarea_df$Budget_Area)
-  }
-  )
+  })
   
 # Tab1: Overview of total Expenses / Income for all parties
   
@@ -163,37 +180,43 @@ server<-function(input, output) {
     
     budgetdata %>% group_by(Party, Type, Year) %>% 
                   summarize(Tot_Billion_SEK=round(sum(SEK)/1000000,1)) %>%
-        ggplot(aes(x=Type, y=Tot_Billion_SEK, fill=Party))+
-                  geom_label(position="dodge")+
-                  geom_text(aes(label=Tot_Billion_SEK))+
-                  ggtitle("Totala utgifter och inkomster per Parti och år")+
+                  ggplot(aes(x=Type, y=Tot_Billion_SEK, fill=Party, label=Party))+
+                  geom_label(size=4)+
                   xlab("")+ylab("Miljarder SEK")+
-                  theme(text = element_text(size=16))+
-      scale_fill_manual(values=party_col)+
+                  theme(text = element_text(size=18),
+                        legend.position="none")+
+                  scale_fill_manual(values=party_col)+
                   facet_grid(~Year)
+  })
+  
+  output$totalnetto<-renderPlot({
+    
+    budgetdata %>% group_by(Party, Type, Year) %>% 
+      summarize(Tot_Billion_SEK=round(sum(SEK)/1000000,1)) %>%
+      spread(Type, Tot_Billion_SEK) %>%
+      mutate(Diff_Billion_SEK=Income-Expense) %>%
+      ggplot(aes(x=Party, y=Diff_Billion_SEK, label=round(Diff_Billion_SEK,0), fill=Party))+
+      geom_label(size=8)+
+      xlab("")+ylab("Miljarder SEK")+
+      theme(text = element_text(size=18),
+            axis.text.x = element_text(angle = 45, hjust = 1),
+            legend.position="none")+
+      scale_fill_manual(values=party_col)+
+      facet_grid(~Year, scales="free")
   })
   
   # Tab2: all budget areas for chosen year and type
   
   output$diffBudgetAreaPlot<-renderPlot({
     
-    rm(p)
-    p<- budgetdata %>% 
-      filter(Year==input$year_total & Type==input$type_total & Budget_Area %in% top_n_budgetarea()) %>% 
-        
-      ggplot(aes(x=Budget_Area, y=Diff_from_avg/1000000, color=Party))+
-        geom_point(size=6)+
-        geom_hline(yintercept=0, size=2)+
-        theme(panel.grid.major.x = element_line(colour = "black"),
-            axis.text.x = element_text(angle = 45, hjust = 1),
-            text = element_text(size=16))+
-          scale_color_manual(values=party_col)+
-        expand_limits(x=-1)+
-          ggtitle("Budget per parti och budgetområde, skillnad mot medelvärdet över alla budgetar")+
-      ylab("Avvikelse medelvärde, Miljoner SEK")
     
-    p+geom_label(aes(x=0.5, y=-5, label="Lägre än medelvärde"),fill="red", color="black",size=5)+
-      geom_label(aes(x=0.5, y=+5, label="Högre än medelvärde"),fill="green", color="black",size=5)
+    filter(budgetdata, Type=="Expense" & Year==input$year_total & Budget_Area %in% budgetarea_with_diff$Budget_Area) %>%
+      mutate(MSEK_Diff=Diff_from_avg/1000000) %>%
+      ggplot(aes(x=Party, y=Budget_Area, fill=MSEK_Diff))+
+      geom_tile(color="grey")+
+      geom_text(aes(label=round(MSEK_Diff,0)), size=10)+
+      scale_fill_gradient2(low = "red", high = "blue", mid = "white")+
+      theme(text = element_text(size=20))
     
   },
   height=600)
@@ -223,7 +246,7 @@ server<-function(input, output) {
       theme(legend.position="none",
             axis.text.x=element_blank(),
             axis.title.x=element_blank(),
-            text=element_text(size=14),
+            text=element_text(size=16),
             panel.grid.major.y= element_line(colour = "black"))+
       coord_flip()+
       expand_limits(x=-1)
@@ -253,18 +276,23 @@ server<-function(input, output) {
     totdiff %>%
       ggplot(aes(x=Year, y=DiffMSEK, label=DiffMSEK, fill=Party.y))+
       geom_col()+
-      geom_label(aes(fill=Party.y), color="white", fontface="bold")+
+      geom_label(aes(fill=Party.y), color="white", fontface="bold", size=10)+
       scale_fill_manual(values=party_col)+
-      ggtitle("Absolut skillnad mellan partiernas budgetar per år")+
-      xlab("")+ylab("Skillnad Miljarder SEK")+
+      ggtitle(paste("Absolut skillnad mellan ", input$parti_diff, " och övriga budgetar per år, MSEK"))+
+      xlab("")+ylab("")+
       expand_limits(y = 0)+
       theme(legend.position="none")+
       theme(text = element_text(size=18))+
       facet_wrap(~Party.y, nrow=1)
     
   })
-
+  
 }
 
 shinyApp(ui=ui, server=server)
+
+
+
+
+
 
