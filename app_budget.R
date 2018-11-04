@@ -1,7 +1,7 @@
 ## Shiny app for analysis of budget proposals from the parties in the swedish Parliament ####
 
 # Content of data: 
-#Year: Budget year
+# Year: Budget year
 # Type: Income or expense
 # Budget_Area: Kind of area
 # SEK: Swedish Krona (Thousands)
@@ -26,23 +26,23 @@ library(shinydashboard)
 # Read in budgetdata
 budgetdata<-read.delim("https://raw.githubusercontent.com/msjoelin/budget_analysis/master/budgetdata.csv", header=TRUE, sep=";")
 
-# Fit formats
+# Set formats
 budgetdata$Year<-as.factor(budgetdata$Year)
 budgetdata$SEK<-as.numeric(budgetdata$SEK)
 
-# Create table with mean values for each year and budget area
+# Create table with mean values (over all Parties) for each year and budget area -> for analysis
 budget_avgvalues<-
   budgetdata %>%
   group_by(Year, Budget_Area) %>%
   summarize(avgSEK=mean(SEK))
 
-# Join in mean values to original dataset and calculate vector with difference from mean value
+# Join to original dataset and calculate variable with difference from mean value
 budgetdata<-
   left_join(budgetdata, budget_avgvalues) %>%
   mutate(Diff_from_avg=SEK-avgSEK)
 
-# Create dataframe with one row per party combination, budget area and year by Joining dataframe with self 
-# Then calculate difference; MSEK = Billion SEK (M=Miljarder in Swedish) 
+
+# Create dataframe with one row per party combination, budget area and year by making selfjoin and calculate differences
 budgetdata_diff<-budgetdata %>% left_join(budgetdata, by=c("Year", "Type", "Budget_Area")) %>%
                   mutate(Diff_SEK=abs(SEK.x-SEK.y),
                          Diff_MSEK=abs(round((SEK.x-SEK.y)/1000000,1)),
@@ -50,6 +50,7 @@ budgetdata_diff<-budgetdata %>% left_join(budgetdata, by=c("Year", "Type", "Budg
                          party_col=ifelse(Diff_MSEK_sign>0,as.character(Party.x),as.character(Party.y))) %>%
                   filter(Party.x!=Party.y)
 
+# List with budgetareas where difference is >1
 budgetarea_with_diff<-
   budgetdata %>% 
     group_by(Year, Budget_Area) %>%
@@ -57,8 +58,6 @@ budgetarea_with_diff<-
     mutate(diff_minmax=abs(maxSEK-minSEK)/1000000) %>%
     filter(diff_minmax>1)
   
-
-
 # Set theme and define color vector
 old<-theme_set(theme_light())
 party_col<-c("MP"="green","V"="darkred", "S"="red" , "Alliansen"="dark orange", "C"="forest green", "KD"="purple", "L"="skyblue", 
@@ -68,7 +67,7 @@ year_col<-c("2015"="sky blue", "2016"="dodgerblue3", "2017"="blue4", "2018"="pur
 ################# UI (DASHBOARD LAYOUT)  ########################
 
 ui<-dashboardPage(
-  dashboardHeader(title="Analys Budgetmotioner"),
+  dashboardHeader(title="Budgetmotioner"),
   dashboardSidebar(
     sidebarMenu(
       menuItem("Budget", tabName="budget", icon=icon("pie-chart")),
@@ -81,7 +80,7 @@ ui<-dashboardPage(
   dashboardBody(
     tabItems(
       
-    # Tab 1: Totalt budget område fördelning  
+    # Tab 1: Absolute figures per party and year 
     tabItem(tabName="budget", 
             h2("Budgetanslag per utgiftsområde, parti och år"),
             fluidRow(
@@ -101,7 +100,7 @@ ui<-dashboardPage(
     fluidRow(plotOutput(("totalnetto")))
     ),
     
-    # Tab3: Difference per budget area
+    # Tab3: Difference per budget area compared to mean values
     tabItem(tabName = "diffBudgetArea",
             h2("Jämförelse per budgetområde"),
             h3("Tabellen visar hur varje partis budget avviker från medelvärdet över alla budgetar i Miljarder SEK"),
