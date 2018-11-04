@@ -1,6 +1,6 @@
 ##################################################
 ## Project: Budget analysis
-## Script purpose: Shiny app for analysis of budget proposals from the parties in the swedish Parliament
+## Script purpose: Shiny app for analysis of government budget proposals from the parties in the swedish Parliament
 ## Date: 2018-10-01 
 ## Author: Marcus Sjölin
 ##################################################
