@@ -1,11 +1,9 @@
-## Shiny app for analysis of budget proposals from the parties in the swedish Parliament ####
-
-# Content of data: 
-# Year: Budget year
-# Type: Income or expense
-# Budget_Area: Kind of area
-# SEK: Swedish Krona (Thousands)
-# Party: The different parties submitting budget proposals
+##################################################
+## Project: Budget analysis
+## Script purpose: Shiny app for analysis of budget proposals from the parties in the swedish Parliament
+## Date: 2018-10-01 
+## Author: Marcus Sjölin
+##################################################
 
 # Read in necessary libraries
 library("plyr")
