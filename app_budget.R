@@ -22,7 +22,7 @@ library(shinydashboard)
 ########################## READ IN AND PREPARE DATA ##########################
 
 # Read in budgetdata
-budgetdata<-read.delim("https://raw.githubusercontent.com/msjoelin/budget_analysis/master/budgetdata.csv", header=TRUE, sep=";")
+budgetdata<-read.delim("https://raw.githubusercontent.com/msjoelin/budget_analysis/master/budgetdata.csv", header=TRUE, sep=",")
 
 # Set formats
 budgetdata$Year<-as.factor(budgetdata$Year)
