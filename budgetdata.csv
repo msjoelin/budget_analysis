@@ -1,861 +1,1119 @@
-Year;Type;Budget_Area;SEK;Party
-2017;Expense;Rikets styrelse;13268476;Redgreen
-2017;Expense;Samhällsekonomi och finansförvaltning;15258562;Redgreen
-2017;Expense;Skatt tull och exekution;10985564;Redgreen
-2017;Expense;Rättsväsendet;42466641;Redgreen
-2017;Expense;Internationell samverkan;1913291;Redgreen
-2017;Expense;Försvar och samhällets krisberedskap;50254364;Redgreen
-2017;Expense;Internationellt bistånd;34990005;Redgreen
-2017;Expense;Migration;32580319;Redgreen
-2017;Expense;Hälsovård sjukvård och social omsorg;68496164;Redgreen
-2017;Expense;Ekonomisk trygghet sjukdom funktionsneds;107051805;Redgreen
-2017;Expense;Ekonomisk trygghet vid ålderdom;34774451;Redgreen
-2017;Expense;Ekonomisk trygghet för familjer och barn;89491398;Redgreen
-2017;Expense;Integration och jämställdhet;32635380;Redgreen
-2017;Expense;Arbetsmarknad och arbetsliv;75656514;Redgreen
-2017;Expense;Studiestöd;22433999;Redgreen
-2017;Expense;Utbildning och universitetsforskning;72381263;Redgreen
-2017;Expense;Kultur medier trossamfund och fritid;14521254;Redgreen
-2017;Expense;Samhällsplanering bostadsförsörjning;6764560;Redgreen
-2017;Expense;Regional tillväxt;3595481;Redgreen
-2017;Expense;Allmän miljö- och naturvård;8403539;Redgreen
-2017;Expense;Energi;2876898;Redgreen
-2017;Expense;Kommunikationer;55114917;Redgreen
-2017;Expense;Areella näringar landsbygd och livsmedel;17189401;Redgreen
-2017;Expense;Näringsliv;6456020;Redgreen
-2017;Expense;Allmänna bidrag till kommuner;105554920;Redgreen
-2017;Expense;Statsskuldsräntor m.m.;16467790;Redgreen
-2017;Expense;Avgiften till Europeiska unionen;29586305;Redgreen
-2017;Expense;Rikets styrelse;13070800;M
-2017;Expense;Samhällsekonomi och finansförvaltning;15088123;M
-2017;Expense;Skatt tull och exekution;10973852;M
-2017;Expense;Rättsväsendet;43522641;M
-2017;Expense;Internationell samverkan;1913291;M
-2017;Expense;Försvar och samhällets krisberedskap;50254364;M
-2017;Expense;Internationellt bistånd;33592005;M
-2017;Expense;Migration;32071998;M
-2017;Expense;Hälsovård sjukvård och social omsorg;68060246;M
-2017;Expense;Ekonomisk trygghet sjukdom funktionsneds;102368575;M
-2017;Expense;Ekonomisk trygghet vid ålderdom;34972809;M
-2017;Expense;Ekonomisk trygghet för familjer och barn;88784898;M
-2017;Expense;Integration och jämställdhet;32546380;M
-2017;Expense;Arbetsmarknad och arbetsliv;72027932;M
-2017;Expense;Studiestöd;22583346;M
-2017;Expense;Utbildning och universitetsforskning;72392263;M
-2017;Expense;Kultur medier trossamfund och fritid;14042089;M
-2017;Expense;Samhällsplanering bostadsförsörjning;1229043;M
-2017;Expense;Regional tillväxt;3595481;M
-2017;Expense;Allmän miljö- och naturvård;6287099;M
-2017;Expense;Energi;2455906;M
-2017;Expense;Kommunikationer;54694917;M
-2017;Expense;Areella näringar landsbygd och livsmedel;16887133;M
-2017;Expense;Näringsliv;6055082;M
-2017;Expense;Allmänna bidrag till kommuner;105958920;M
-2017;Expense;Statsskuldsräntor m.m.;16467790;M
-2017;Expense;Avgiften till Europeiska unionen;29586305;M
-2017;Expense;Rikets styrelse;13242750;L
-2017;Expense;Samhällsekonomi och finansförvaltning;15095178;L
-2017;Expense;Skatt tull och exekution;11004423;L
-2017;Expense;Rättsväsendet;43278681;L
-2017;Expense;Internationell samverkan;1913065;L
-2017;Expense;Försvar och samhällets krisberedskap;52221574;L
-2017;Expense;Internationellt bistånd;35453878;L
-2017;Expense;Migration;32111705;L
-2017;Expense;Hälsovård sjukvård och social omsorg;67973685;L
-2017;Expense;Ekonomisk trygghet sjukdom funktionsneds;102094805;L
-2017;Expense;Ekonomisk trygghet vid ålderdom;35073357;L
-2017;Expense;Ekonomisk trygghet för familjer och barn;89496398;L
-2017;Expense;Integration och jämställdhet;33229159;L
-2017;Expense;Arbetsmarknad och arbetsliv;69104673;L
-2017;Expense;Studiestöd;21152814;L
-2017;Expense;Utbildning och universitetsforskning;71743837;L
-2017;Expense;Kultur medier trossamfund och fritid;13923697;L
-2017;Expense;Samhällsplanering bostadsförsörjning;1171303;L
-2017;Expense;Regional tillväxt;3507481;L
-2017;Expense;Allmän miljö- och naturvård;6102569;L
-2017;Expense;Energi;2570903;L
-2017;Expense;Kommunikationer;54463244;L
-2017;Expense;Areella näringar landsbygd och livsmedel;16978222;L
-2017;Expense;Näringsliv;5513544;L
-2017;Expense;Allmänna bidrag till kommuner;99620920;L
-2017;Expense;Statsskuldsräntor m.m.;16467790;L
-2017;Expense;Avgiften till Europeiska unionen;29586305;L
-2017;Expense;Rikets styrelse;12864915;KD
-2017;Expense;Samhällsekonomi och finansförvaltning;15088234;KD
-2017;Expense;Skatt tull och exekution;10938852;KD
-2017;Expense;Rättsväsendet;43075641;KD
-2017;Expense;Internationell samverkan;1912836;KD
-2017;Expense;Försvar och samhällets krisberedskap;50294364;KD
-2017;Expense;Internationellt bistånd;34990005;KD
-2017;Expense;Migration;34586752;KD
-2017;Expense;Hälsovård sjukvård och social omsorg;73075248;KD
-2017;Expense;Ekonomisk trygghet sjukdom funktionsneds;104403675;KD
-2017;Expense;Ekonomisk trygghet vid ålderdom;36072809;KD
-2017;Expense;Ekonomisk trygghet för familjer och barn;92459398;KD
-2017;Expense;Integration och jämställdhet;31333521;KD
-2017;Expense;Arbetsmarknad och arbetsliv;69197927;KD
-2017;Expense;Studiestöd;18953849;KD
-2017;Expense;Utbildning och universitetsforskning;73024789;KD
-2017;Expense;Kultur medier trossamfund och fritid;13965938;KD
-2017;Expense;Samhällsplanering bostadsförsörjning;1160971;KD
-2017;Expense;Regional tillväxt;3599481;KD
-2017;Expense;Allmän miljö- och naturvård;5448159;KD
-2017;Expense;Energi;2763906;KD
-2017;Expense;Kommunikationer;55467375;KD
-2017;Expense;Areella näringar landsbygd och livsmedel;17241538;KD
-2017;Expense;Näringsliv;5280105;KD
-2017;Expense;Allmänna bidrag till kommuner;94724920;KD
-2017;Expense;Statsskuldsräntor m.m.;16467790;KD
-2017;Expense;Avgiften till Europeiska unionen;29586305;KD
-2017;Expense;Rikets styrelse;12923802;C
-2017;Expense;Samhällsekonomi och finansförvaltning;14756624;C
-2017;Expense;Skatt tull och exekution;10879354;C
-2017;Expense;Rättsväsendet;42981719;C
-2017;Expense;Internationell samverkan;1901322;C
-2017;Expense;Försvar och samhällets krisberedskap;50249364;C
-2017;Expense;Internationellt bistånd;35490005;C
-2017;Expense;Migration;32556398;C
-2017;Expense;Hälsovård sjukvård och social omsorg;63532242;C
-2017;Expense;Ekonomisk trygghet sjukdom funktionsneds;103096673;C
-2017;Expense;Ekonomisk trygghet vid ålderdom;34355809;C
-2017;Expense;Ekonomisk trygghet för familjer och barn;87227398;C
-2017;Expense;Integration och jämställdhet;32781520;C
-2017;Expense;Arbetsmarknad och arbetsliv;68394273;C
-2017;Expense;Studiestöd;21390756;C
-2017;Expense;Utbildning och universitetsforskning;69657197;C
-2017;Expense;Kultur medier trossamfund och fritid;13918928;C
-2017;Expense;Samhällsplanering bostadsförsörjning;1230464;C
-2017;Expense;Regional tillväxt;3575481;C
-2017;Expense;Allmän miljö- och naturvård;6265089;C
-2017;Expense;Energi;3020904;C
-2017;Expense;Kommunikationer;54232252;C
-2017;Expense;Areella näringar landsbygd och livsmedel;17259141;C
-2017;Expense;Näringsliv;6045083;C
-2017;Expense;Allmänna bidrag till kommuner;105696920;C
-2017;Expense;Statsskuldsräntor m.m.;16467790;C
-2017;Expense;Avgiften till Europeiska unionen;29586305;C
-2017;Expense;Rikets styrelse;12658976;SD
-2017;Expense;Samhällsekonomi och finansförvaltning;15450562;SD
-2017;Expense;Skatt tull och exekution;11360564;SD
-2017;Expense;Rättsväsendet;45133641;SD
-2017;Expense;Internationell samverkan;2754291;SD
-2017;Expense;Försvar och samhällets krisberedskap;52346364;SD
-2017;Expense;Internationellt bistånd;36040005;SD
-2017;Expense;Migration;20059839;SD
-2017;Expense;Hälsovård sjukvård och social omsorg;71239964;SD
-2017;Expense;Ekonomisk trygghet sjukdom funktionsneds;111461805;SD
-2017;Expense;Ekonomisk trygghet vid ålderdom;39941551;SD
-2017;Expense;Ekonomisk trygghet för familjer och barn;88984798;SD
-2017;Expense;Integration och jämställdhet;15887734;SD
-2017;Expense;Arbetsmarknad och arbetsliv;78128514;SD
-2017;Expense;Studiestöd;22833999;SD
-2017;Expense;Utbildning och universitetsforskning;71034120;SD
-2017;Expense;Kultur medier trossamfund och fritid;14625505;SD
-2017;Expense;Samhällsplanering bostadsförsörjning;2389560;SD
-2017;Expense;Regional tillväxt;3595481;SD
-2017;Expense;Allmän miljö- och naturvård;6121539;SD
-2017;Expense;Energi;2521898;SD
-2017;Expense;Kommunikationer;57272617;SD
-2017;Expense;Areella näringar landsbygd och livsmedel;19197401;SD
-2017;Expense;Näringsliv;6015020;SD
-2017;Expense;Allmänna bidrag till kommuner;79592920;SD
-2017;Expense;Statsskuldsräntor m.m.;16467790;SD
-2017;Expense;Avgiften till Europeiska unionen;29586305;SD
-2017;Income;1100 Direkta skatter på arbete;644673535;Redgreen
-2017;Income;1200 Indirekta skatter på arbete;562224218;Redgreen
-2017;Income;1300 Skatt på kapital;228671126;Redgreen
-2017;Income;1400 Skatt på konsumtion och insatsvaror;542572582;Redgreen
-2017;Income;1500 Skatt på import;6544499;Redgreen
-2017;Income;1600 Restförda och övriga skatter;11329183;Redgreen
-2017;Income;1700 Avgående poster skatter till EU;-6544499;Redgreen
-2017;Income;1800 Avgående poster skatter till andra sektorer;-968068432;Redgreen
-2017;Income;1900 Periodiseringar;5312418;Redgreen
-2017;Income;2000 Inkomster av statens verksamhet;27763799;Redgreen
-2017;Income;3000 Inkomster av försåld egendom;5000000;Redgreen
-2017;Income;4000 Återbetalning av lån;691450;Redgreen
-2017;Income;5000 Kalkylmässiga inkomster;11294000;Redgreen
-2017;Income;6000 Bidrag m.m. från EU;11271830;Redgreen
-2017;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-100001880;Redgreen
-2017;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;Redgreen
-2017;Income;1100 Direkta skatter på arbete;636109535;SD
-2017;Income;1200 Indirekta skatter på arbete;559024218;SD
-2017;Income;1300 Skatt på kapital;229471126;SD
-2017;Income;1400 Skatt på konsumtion och insatsvaror;550326582;SD
-2017;Income;1500 Skatt på import;6544499;SD
-2017;Income;1600 Restförda och övriga skatter;11329183;SD
-2017;Income;1700 Avgående poster skatter till EU;-6544499;SD
-2017;Income;1800 Avgående poster skatter till andra sektorer;-990834432;SD
-2017;Income;1900 Periodiseringar;5312418;SD
-2017;Income;2000 Inkomster av statens verksamhet;27763799;SD
-2017;Income;3000 Inkomster av försåld egendom;5000000;SD
-2017;Income;4000 Återbetalning av lån;691450;SD
-2017;Income;5000 Kalkylmässiga inkomster;11294000;SD
-2017;Income;6000 Bidrag m.m. från EU;11271830;SD
-2017;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-100001880;SD
-2017;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;SD
-2017;Income;1100 Direkta skatter på arbete;630104535;C
-2017;Income;1200 Indirekta skatter på arbete;540533218;C
-2017;Income;1300 Skatt på kapital;234762126;C
-2017;Income;1400 Skatt på konsumtion och insatsvaror;548714582;C
-2017;Income;1500 Skatt på import;6544499;C
-2017;Income;1600 Restförda och övriga skatter;10738986;C
-2017;Income;1700 Avgående poster skatter till EU;-6544499;C
-2017;Income;1800 Avgående poster skatter till andra sektorer;-966776432;C
-2017;Income;1900 Periodiseringar;5312418;C
-2017;Income;2000 Inkomster av statens verksamhet;27613799;C
-2017;Income;3000 Inkomster av försåld egendom;5000000;C
-2017;Income;4000 Återbetalning av lån;691450;C
-2017;Income;5000 Kalkylmässiga inkomster;11294000;C
-2017;Income;6000 Bidrag m.m. från EU;11271830;C
-2017;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-99411683;C
-2017;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;C
-2017;Income;1100 Direkta skatter på arbete;628992535;KD
-2017;Income;1200 Indirekta skatter på arbete;559295218;KD
-2017;Income;1300 Skatt på kapital;230267126;KD
-2017;Income;1400 Skatt på konsumtion och insatsvaror;546182582;KD
-2017;Income;1500 Skatt på import;6544499;KD
-2017;Income;1600 Restförda och övriga skatter;11329183;KD
-2017;Income;1700 Avgående poster skatter till EU;-6544499;KD
-2017;Income;1800 Avgående poster skatter till andra sektorer;-967654432;KD
-2017;Income;1900 Periodiseringar;5312418;KD
-2017;Income;2000 Inkomster av statens verksamhet;27463799;KD
-2017;Income;3000 Inkomster av försåld egendom;5000000;KD
-2017;Income;4000 Återbetalning av lån;691450;KD
-2017;Income;5000 Kalkylmässiga inkomster;11294000;KD
-2017;Income;6000 Bidrag m.m. från EU;11271830;KD
-2017;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-100001880;KD
-2017;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;KD
-2017;Income;1100 Direkta skatter på arbete;624799535;L
-2017;Income;1200 Indirekta skatter på arbete;558258218;L
-2017;Income;1300 Skatt på kapital;231351126;L
-2017;Income;1400 Skatt på konsumtion och insatsvaror;546357582;L
-2017;Income;1500 Skatt på import;6544499;L
-2017;Income;1600 Restförda och övriga skatter;11329183;L
-2017;Income;1700 Avgående poster skatter till EU;-6544499;L
-2017;Income;1800 Avgående poster skatter till andra sektorer;-968944432;L
-2017;Income;1900 Periodiseringar;5312418;L
-2017;Income;2000 Inkomster av statens verksamhet;27363799;L
-2017;Income;3000 Inkomster av försåld egendom;5000000;L
-2017;Income;4000 Återbetalning av lån;691450;L
-2017;Income;5000 Kalkylmässiga inkomster;11294000;L
-2017;Income;6000 Bidrag m.m. från EU;11271830;L
-2017;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-100001880;L
-2017;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;L
-2017;Income;1100 Direkta skatter på arbete;636047535;M
-2017;Income;1200 Indirekta skatter på arbete;557353218;M
-2017;Income;1300 Skatt på kapital;227718126;M
-2017;Income;1400 Skatt på konsumtion och insatsvaror;545445582;M
-2017;Income;1500 Skatt på import;6544499;M
-2017;Income;1600 Restförda och övriga skatter;11329183;M
-2017;Income;1700 Avgående poster skatter till EU;-6544499;M
-2017;Income;1800 Avgående poster skatter till andra sektorer;-968837432;M
-2017;Income;1900 Periodiseringar;5312418;M
-2017;Income;2000 Inkomster av statens verksamhet;27559799;M
-2017;Income;3000 Inkomster av försåld egendom;5000000;M
-2017;Income;4000 Återbetalning av lån;691450;M
-2017;Income;5000 Kalkylmässiga inkomster;11294000;M
-2017;Income;6000 Bidrag m.m. från EU;11271830;M
-2017;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-100001880;M
-2017;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;M
-2018;Expense;Rikets styrelse;14531335;Redgreen
-2018;Expense;Samhällsekonomi och finansförvaltning;16285547;Redgreen
-2018;Expense;Skatt tull och exekution;11399384;Redgreen
-2018;Expense;Rättsväsendet;45776783;Redgreen
-2018;Expense;Internationell samverkan;2009032;Redgreen
-2018;Expense;Försvar och samhällets krisberedskap;53835520;Redgreen
-2018;Expense;Internationellt bistånd;42985209;Redgreen
-2018;Expense;Migration;15748230;Redgreen
-2018;Expense;Hälsovård sjukvård och social omsorg;77696041;Redgreen
-2018;Expense;Ekonomisk trygghet sjukdom funktionsneds;102615229;Redgreen
-2018;Expense;Ekonomisk trygghet vid ålderdom;34635669;Redgreen
-2018;Expense;Ekonomisk trygghet för familjer och barn;94586418;Redgreen
-2018;Expense;Integration och jämställdhet;25600209;Redgreen
-2018;Expense;Arbetsmarknad och arbetsliv;74083840;Redgreen
-2018;Expense;Studiestöd;24352692;Redgreen
-2018;Expense;Utbildning och universitetsforskning;77965638;Redgreen
-2018;Expense;Kultur medier trossamfund och fritid;15879752;Redgreen
-2018;Expense;Samhällsplanering bostadsförsörjning;6951648;Redgreen
-2018;Expense;Regional tillväxt;3921525;Redgreen
-2018;Expense;Allmän miljö- och naturvård;10772788;Redgreen
-2018;Expense;Energi;3588354;Redgreen
-2018;Expense;Kommunikationer;56418505;Redgreen
-2018;Expense;Areella näringar landsbygd och livsmedel;19253779;Redgreen
-2018;Expense;Näringsliv;7370651;Redgreen
-2018;Expense;Allmänna bidrag till kommuner;111385385;Redgreen
-2018;Expense;Statsskuldsräntor m.m.;11355200;Redgreen
-2018;Expense;Avgiften till Europeiska unionen;39510631;Redgreen
-2018;Income;1100 Direkta skatter på arbete;657127381;Redgreen
-2018;Income;1200 Indirekta skatter på arbete;581913420;Redgreen
-2018;Income;1300 Skatt på kapital;255612596;Redgreen
-2018;Income;1400 Skatt på konsumtion och insatsvaror;580892265;Redgreen
-2018;Income;1500 Skatt på import;6812759;Redgreen
-2018;Income;1600 Restförda och övriga skatter;15254541;Redgreen
-2018;Income;1700 Avgående poster skatter till EU;-6812759;Redgreen
-2018;Income;1800 Avgående poster skatter till andra sektorer;-998580690;Redgreen
-2018;Income;1900 Periodiseringar;-6990001;Redgreen
-2018;Income;2000 Inkomster av statens verksamhet;30833948;Redgreen
-2018;Income;3000 Inkomster av försåld egendom;5000000;Redgreen
-2018;Income;4000 Återbetalning av lån;766470;Redgreen
-2018;Income;5000 Kalkylmässiga inkomster;11873000;Redgreen
-2018;Income;6000 Bidrag m.m. från EU;12910157;Redgreen
-2018;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-103711910;Redgreen
-2018;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;Redgreen
-2016;Expense;Rikets styrelse;12717244;Redgreen
-2016;Expense;Samhällsekonomi och finansförvaltning;14812312;Redgreen
-2016;Expense;Skatt tull och exekution;10782946;Redgreen
-2016;Expense;Rättsväsendet;41573737;Redgreen
-2016;Expense;Internationell samverkan;1905203;Redgreen
-2016;Expense;Försvar och samhällets krisberedskap;48827432;Redgreen
-2016;Expense;Internationellt bistånd;32357474;Redgreen
-2016;Expense;Migration;19419719;Redgreen
-2016;Expense;Hälsovård sjukvård och social omsorg;69237676;Redgreen
-2016;Expense;Ekonomisk trygghet sjukdom funktionsneds;109868281;Redgreen
-2016;Expense;Ekonomisk trygghet vid ålderdom;36184250;Redgreen
-2016;Expense;Ekonomisk trygghet för familjer och barn;87129050;Redgreen
-2016;Expense;Integration och jämställdhet;21070265;Redgreen
-2016;Expense;Arbetsmarknad och arbetsliv;79681475;Redgreen
-2016;Expense;Studiestöd;21707932;Redgreen
-2016;Expense;Utbildning och universitetsforskning;69452400;Redgreen
-2016;Expense;Kultur medier trossamfund och fritid;13694535;Redgreen
-2016;Expense;Samhällsplanering bostadsförsörjning;7064024;Redgreen
-2016;Expense;Regional tillväxt;3255721;Redgreen
-2016;Expense;Allmän miljö- och naturvård;7661756;Redgreen
-2016;Expense;Energi;2812038;Redgreen
-2016;Expense;Kommunikationer;54122036;Redgreen
-2016;Expense;Areella näringar landsbygd och livsmedel;18919553;Redgreen
-2016;Expense;Näringsliv;5998273;Redgreen
-2016;Expense;Allmänna bidrag till kommuner;93398252;Redgreen
-2016;Expense;Statsskuldsräntor m.m.;10769176;Redgreen
-2016;Expense;Avgiften till Europeiska unionen;31827167;Redgreen
-2016;Income;1100 Direkta skatter på arbete;606496570;Redgreen
-2016;Income;1200 Indirekta skatter på arbete;527200667;Redgreen
-2016;Income;1300 Skatt på kapital;200279507;Redgreen
-2016;Income;1400 Skatt på konsumtion och insatsvaror;510395500;Redgreen
-2016;Income;1500 Skatt på import;6455282;Redgreen
-2016;Income;1600 Restförda och övriga skatter;5780139;Redgreen
-2016;Income;1700 Avgående poster skatter till EU;-6455282;Redgreen
-2016;Income;1800 Avgående poster skatter till andra sektorer;-917514503;Redgreen
-2016;Income;1900 Periodiseringar;19963915;Redgreen
-2016;Income;2000 Inkomster av statens verksamhet;31148870;Redgreen
-2016;Income;3000 Inkomster av försåld egendom;5000000;Redgreen
-2016;Income;4000 Återbetalning av lån;760800;Redgreen
-2016;Income;5000 Kalkylmässiga inkomster;10719000;Redgreen
-2016;Income;6000 Bidrag m.m. från EU;12705740;Redgreen
-2016;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-88675336;Redgreen
-2016;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;Redgreen
-2016;Expense;Rikets styrelse;12693000;L
-2016;Expense;Samhällsekonomi och finansförvaltning;14619000;L
-2016;Expense;Skatt tull och exekution;10768000;L
-2016;Expense;Rättsväsendet;41564000;L
-2016;Expense;Internationell samverkan;1905000;L
-2016;Expense;Försvar och samhällets krisberedskap;49827000;L
-2016;Expense;Internationellt bistånd;32454000;L
-2016;Expense;Migration;19616000;L
-2016;Expense;Hälsovård sjukvård och social omsorg;66818000;L
-2016;Expense;Ekonomisk trygghet sjukdom funktionsneds;108408000;L
-2016;Expense;Ekonomisk trygghet vid ålderdom;36383000;L
-2016;Expense;Ekonomisk trygghet för familjer och barn;87002000;L
-2016;Expense;Integration och jämställdhet;20401000;L
-2016;Expense;Arbetsmarknad och arbetsliv;73905000;L
-2016;Expense;Studiestöd;19541000;L
-2016;Expense;Utbildning och universitetsforskning;66844000;L
-2016;Expense;Kultur medier trossamfund och fritid;13199000;L
-2016;Expense;Samhällsplanering bostadsförsörjning;1141000;L
-2016;Expense;Regional tillväxt;3256000;L
-2016;Expense;Allmän miljö- och naturvård;5888000;L
-2016;Expense;Energi;2618000;L
-2016;Expense;Kommunikationer;53553000;L
-2016;Expense;Areella näringar landsbygd och livsmedel;18622000;L
-2016;Expense;Näringsliv;5375000;L
-2016;Expense;Allmänna bidrag till kommuner;91445000;L
-2016;Expense;Statsskuldsräntor m.m.;10769000;L
-2016;Expense;Avgiften till Europeiska unionen;31827000;L
-2016;Income;1100 Direkta skatter på arbete;587892000;L
-2016;Income;1200 Indirekta skatter på arbete;523376000;L
-2016;Income;1300 Skatt på kapital;199665000;L
-2016;Income;1400 Skatt på konsumtion och insatsvaror;509215000;L
-2016;Income;1500 Skatt på import;6455000;L
-2016;Income;1600 Restförda och övriga skatter;5780000;L
-2016;Income;1700 Avgående poster skatter till EU;-6455000;L
-2016;Income;1800 Avgående poster skatter till andra sektorer;-917961000;L
-2016;Income;1900 Periodiseringar;19964000;L
-2016;Income;2000 Inkomster av statens verksamhet;31349000;L
-2016;Income;3000 Inkomster av försåld egendom;5000000;L
-2016;Income;4000 Återbetalning av lån;761000;L
-2016;Income;5000 Kalkylmässiga inkomster;10719000;L
-2016;Income;6000 Bidrag m.m. från EU;12706000;L
-2016;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-88675000;L
-2016;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;L
-2016;Expense;Rikets styrelse;12130064;SD
-2016;Expense;Samhällsekonomi och finansförvaltning;14812312;SD
-2016;Expense;Skatt tull och exekution;11051546;SD
-2016;Expense;Rättsväsendet;43535037;SD
-2016;Expense;Internationell samverkan;1925203;SD
-2016;Expense;Försvar och samhällets krisberedskap;51827432;SD
-2016;Expense;Internationellt bistånd;32872500;SD
-2016;Expense;Migration;2967850;SD
-2016;Expense;Hälsovård sjukvård och social omsorg;71402976;SD
-2016;Expense;Ekonomisk trygghet sjukdom funktionsneds;112530281;SD
-2016;Expense;Ekonomisk trygghet vid ålderdom;41355950;SD
-2016;Expense;Ekonomisk trygghet för familjer och barn;86964665;SD
-2016;Expense;Integration och jämställdhet;10665899;SD
-2016;Expense;Arbetsmarknad och arbetsliv;78310975;SD
-2016;Expense;Studiestöd;22108532;SD
-2016;Expense;Utbildning och universitetsforskning;69987061;SD
-2016;Expense;Kultur medier trossamfund och fritid;13802102;SD
-2016;Expense;Samhällsplanering bostadsförsörjning;2103024;SD
-2016;Expense;Regional tillväxt;3255721;SD
-2016;Expense;Allmän miljö- och naturvård;5954256;SD
-2016;Expense;Energi;2472038;SD
-2016;Expense;Kommunikationer;54539036;SD
-2016;Expense;Areella näringar landsbygd och livsmedel;20494553;SD
-2016;Expense;Näringsliv;5794273;SD
-2016;Expense;Allmänna bidrag till kommuner;90753052;SD
-2016;Expense;Statsskuldsräntor m.m.;10769176;SD
-2016;Expense;Avgiften till Europeiska unionen;31827167;SD
-2016;Income;1100 Direkta skatter på arbete;588101370;SD
-2016;Income;1200 Indirekta skatter på arbete;517406935;SD
-2016;Income;1300 Skatt på kapital;203676175;SD
-2016;Income;1400 Skatt på konsumtion och insatsvaror;510320899;SD
-2016;Income;1500 Skatt på import;6455282;SD
-2016;Income;1600 Restförda och övriga skatter;5780138;SD
-2016;Income;1700 Avgående poster skatter till EU;-6455282;SD
-2016;Income;1800 Avgående poster skatter till andra sektorer;-914776302;SD
-2016;Income;1900 Periodiseringar;19963915;SD
-2016;Income;2000 Inkomster av statens verksamhet;32748870;SD
-2016;Income;3000 Inkomster av försåld egendom;5000000;SD
-2016;Income;4000 Återbetalning av lån;760800;SD
-2016;Income;5000 Kalkylmässiga inkomster;10719000;SD
-2016;Income;6000 Bidrag m.m. från EU;12705740;SD
-2016;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-88500736;SD
-2016;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;96900;SD
-2016;Expense;Rikets styrelse;12589744;KD
-2016;Expense;Samhällsekonomi och finansförvaltning;14623312;KD
-2016;Expense;Skatt tull och exekution;10792946;KD
-2016;Expense;Rättsväsendet;41608737;KD
-2016;Expense;Internationell samverkan;1905203;KD
-2016;Expense;Försvar och samhällets krisberedskap;48827432;KD
-2016;Expense;Internationellt bistånd;32357474;KD
-2016;Expense;Migration;19408719;KD
-2016;Expense;Hälsovård sjukvård och social omsorg;65202676;KD
-2016;Expense;Ekonomisk trygghet sjukdom funktionsneds;108651281;KD
-2016;Expense;Ekonomisk trygghet vid ålderdom;36184250;KD
-2016;Expense;Ekonomisk trygghet för familjer och barn;87214050;KD
-2016;Expense;Integration och jämställdhet;19894265;KD
-2016;Expense;Arbetsmarknad och arbetsliv;77282475;KD
-2016;Expense;Studiestöd;19839602;KD
-2016;Expense;Utbildning och universitetsforskning;65589075;KD
-2016;Expense;Kultur medier trossamfund och fritid;13289535;KD
-2016;Expense;Samhällsplanering bostadsförsörjning;1081024;KD
-2016;Expense;Regional tillväxt;3259721;KD
-2016;Expense;Allmän miljö- och naturvård;5435756;KD
-2016;Expense;Energi;2789038;KD
-2016;Expense;Kommunikationer;53898036;KD
-2016;Expense;Areella näringar landsbygd och livsmedel;18992553;KD
-2016;Expense;Näringsliv;5331273;KD
-2016;Expense;Allmänna bidrag till kommuner;106127252;KD
-2016;Expense;Statsskuldsräntor m.m.;10769176;KD
-2016;Expense;Avgiften till Europeiska unionen;31827167;KD
-2016;Income;1100 Direkta skatter på arbete;586196570;KD
-2016;Income;1200 Indirekta skatter på arbete;517730668;KD
-2016;Income;1300 Skatt på kapital;201679508;KD
-2016;Income;1400 Skatt på konsumtion och insatsvaror;514288499;KD
-2016;Income;1500 Skatt på import;6455282;KD
-2016;Income;1600 Restförda och övriga skatter;5780138;KD
-2016;Income;1700 Avgående poster skatter till EU;-6455282;KD
-2016;Income;1800 Avgående poster skatter till andra sektorer;-904014502;KD
-2016;Income;1900 Periodiseringar;19963915;KD
-2016;Income;2000 Inkomster av statens verksamhet;30848870;KD
-2016;Income;3000 Inkomster av försåld egendom;5000000;KD
-2016;Income;4000 Återbetalning av lån;760800;KD
-2016;Income;5000 Kalkylmässiga inkomster;10719000;KD
-2016;Income;6000 Bidrag m.m. från EU;12705740;KD
-2016;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-88675336;KD
-2016;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;KD
-2016;Expense;Rikets styrelse;12600244;M
-2016;Expense;Samhällsekonomi och finansförvaltning;14723312;M
-2016;Expense;Skatt tull och exekution;10787946;M
-2016;Expense;Rättsväsendet;41628737;M
-2016;Expense;Internationell samverkan;1905203;M
-2016;Expense;Försvar och samhällets krisberedskap;48827432;M
-2016;Expense;Internationellt bistånd;31537474;M
-2016;Expense;Migration;19313056;M
-2016;Expense;Hälsovård sjukvård och social omsorg;65168676;M
-2016;Expense;Ekonomisk trygghet sjukdom funktionsneds;108271281;M
-2016;Expense;Ekonomisk trygghet vid ålderdom;36184250;M
-2016;Expense;Ekonomisk trygghet för familjer och barn;86912050;M
-2016;Expense;Integration och jämställdhet;20045265;M
-2016;Expense;Arbetsmarknad och arbetsliv;75736475;M
-2016;Expense;Studiestöd;20457732;M
-2016;Expense;Utbildning och universitetsforskning;66245400;M
-2016;Expense;Kultur medier trossamfund och fritid;13053535;M
-2016;Expense;Samhällsplanering bostadsförsörjning;1184024;M
-2016;Expense;Regional tillväxt;3255721;M
-2016;Expense;Allmän miljö- och naturvård;5665756;M
-2016;Expense;Energi;2509038;M
-2016;Expense;Kommunikationer;54097036;M
-2016;Expense;Areella näringar landsbygd och livsmedel;18703553;M
-2016;Expense;Näringsliv;5501273;M
-2016;Expense;Allmänna bidrag till kommuner;93291252;M
-2016;Expense;Statsskuldsräntor m.m.;10769176;M
-2016;Expense;Avgiften till Europeiska unionen;31827167;M
-2016;Income;1100 Direkta skatter på arbete;587251570;M
-2016;Income;1200 Indirekta skatter på arbete;524730668;M
-2016;Income;1300 Skatt på kapital;200769508;M
-2016;Income;1400 Skatt på konsumtion och insatsvaror;506355499;M
-2016;Income;1500 Skatt på import;6455282;M
-2016;Income;1600 Restförda och övriga skatter;5780138;M
-2016;Income;1700 Avgående poster skatter till EU;-6455282;M
-2016;Income;1800 Avgående poster skatter till andra sektorer;-917714502;M
-2016;Income;1900 Periodiseringar;19963915;M
-2016;Income;2000 Inkomster av statens verksamhet;30898870;M
-2016;Income;3000 Inkomster av försåld egendom;5000000;M
-2016;Income;4000 Återbetalning av lån;760800;M
-2016;Income;5000 Kalkylmässiga inkomster;10719000;M
-2016;Income;6000 Bidrag m.m. från EU;12705740;M
-2016;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-88675336;M
-2016;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;M
-2016;Expense;Rikets styrelse;12502744;C
-2016;Expense;Samhällsekonomi och finansförvaltning;13741812;C
-2016;Expense;Skatt tull och exekution;10768407;C
-2016;Expense;Rättsväsendet;41558737;C
-2016;Expense;Internationell samverkan;1902203;C
-2016;Expense;Försvar och samhällets krisberedskap;48827432;C
-2016;Expense;Internationellt bistånd;32569474;C
-2016;Expense;Migration;18782719;C
-2016;Expense;Hälsovård sjukvård och social omsorg;63080626;C
-2016;Expense;Ekonomisk trygghet sjukdom funktionsneds;108181281;C
-2016;Expense;Ekonomisk trygghet vid ålderdom;36164250;C
-2016;Expense;Ekonomisk trygghet för familjer och barn;86298050;C
-2016;Expense;Integration och jämställdhet;20969265;C
-2016;Expense;Arbetsmarknad och arbetsliv;73340475;C
-2016;Expense;Studiestöd;20629132;C
-2016;Expense;Utbildning och universitetsforskning;65872604;C
-2016;Expense;Kultur medier trossamfund och fritid;13144823;C
-2016;Expense;Samhällsplanering bostadsförsörjning;1162824;C
-2016;Expense;Regional tillväxt;3280721;C
-2016;Expense;Allmän miljö- och naturvård;5784756;C
-2016;Expense;Energi;3134038;C
-2016;Expense;Kommunikationer;54032036;C
-2016;Expense;Areella näringar landsbygd och livsmedel;18907553;C
-2016;Expense;Näringsliv;5441273;C
-2016;Expense;Allmänna bidrag till kommuner;89680252;C
-2016;Expense;Statsskuldsräntor m.m.;10769176;C
-2016;Expense;Avgiften till Europeiska unionen;31827167;C
-2016;Income;1100 Direkta skatter på arbete;593845570;C
-2016;Income;1200 Indirekta skatter på arbete;503740668;C
-2016;Income;1300 Skatt på kapital;204263108;C
-2016;Income;1400 Skatt på konsumtion och insatsvaror;510708499;C
-2016;Income;1500 Skatt på import;6455282;C
-2016;Income;1600 Restförda och övriga skatter;5780138;C
-2016;Income;1700 Avgående poster skatter till EU;-6455282;C
-2016;Income;1800 Avgående poster skatter till andra sektorer;-917884502;C
-2016;Income;1900 Periodiseringar;19963915;C
-2016;Income;2000 Inkomster av statens verksamhet;30648870;C
-2016;Income;3000 Inkomster av försåld egendom;5000000;C
-2016;Income;4000 Återbetalning av lån;760800;C
-2016;Income;5000 Kalkylmässiga inkomster;10719000;C
-2016;Income;6000 Bidrag m.m. från EU;12705740;C
-2016;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-88675336;C
-2016;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;C
-2015;Income;1100 Direkta skatter på arbete;565458256;Alliansen
-2015;Income;1200 Indirekta skatter på arbete;486351604;Alliansen
-2015;Income;1300 Skatt på kapital;190422100;Alliansen
-2015;Income;1400 Skatt på konsumtion och insatsvaror;494234021;Alliansen
-2015;Income;1500 Skatt på import;5956256;Alliansen
-2015;Income;1600 Restförda och övriga skatter;3407314;Alliansen
-2015;Income;1700 Avgående poster skatter till EU;-5956256;Alliansen
-2015;Income;1800 Avgående poster skatter till andra sektorer;-877919217;Alliansen
-2015;Income;1900 Periodiseringar;-3158187;Alliansen
-2015;Income;2000 Inkomster av statens verksamhet;33649944;Alliansen
-2015;Income;3000 Inkomster av försåld egendom;15000000;Alliansen
-2015;Income;4000 Återbetalning av lån;875900;Alliansen
-2015;Income;5000 Kalkylmässiga inkomster;9998000;Alliansen
-2015;Income;6000 Bidrag m.m. från EU;10332700;Alliansen
-2015;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-83523685;Alliansen
-2015;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;-8431911;Alliansen
-2015;Expense;Rikets styrelse;12198574;Alliansen
-2015;Expense;Samhällsekonomi och finansförvaltning;14599953;Alliansen
-2015;Expense;Skatt tull och exekution;10573781;Alliansen
-2015;Expense;Rättsväsendet;40757864;Alliansen
-2015;Expense;Internationell samverkan;1919062;Alliansen
-2015;Expense;Försvar och samhällets krisberedskap;48451160;Alliansen
-2015;Expense;Internationellt bistånd;29508686;Alliansen
-2015;Expense;Migration;17433309;Alliansen
-2015;Expense;Hälsovård sjukvård och social omsorg;61898497;Alliansen
-2015;Expense;Ekonomisk trygghet sjukdom funktionsneds;100474087;Alliansen
-2015;Expense;Ekonomisk trygghet vid ålderdom;38015425;Alliansen
-2015;Expense;Ekonomisk trygghet för familjer och barn;83124698;Alliansen
-2015;Expense;Integration och jämställdhet;16747043;Alliansen
-2015;Expense;Arbetsmarknad och arbetsliv;67783102;Alliansen
-2015;Expense;Studiestöd;20302280;Alliansen
-2015;Expense;Utbildning och universitetsforskning;63635525;Alliansen
-2015;Expense;Kultur medier trossamfund och fritid;12785347;Alliansen
-2015;Expense;Samhällsplanering bostadsförsörjning;1207973;Alliansen
-2015;Expense;Regional tillväxt;2700801;Alliansen
-2015;Expense;Allmän miljö- och naturvård;5348118;Alliansen
-2015;Expense;Energi;2469609;Alliansen
-2015;Expense;Kommunikationer;48870983;Alliansen
-2015;Expense;Areella näringar landsbygd och livsmedel;15656027;Alliansen
-2015;Expense;Näringsliv;5309162;Alliansen
-2015;Expense;Allmänna bidrag till kommuner;91329002;Alliansen
-2015;Expense;Statsskuldsräntor m.m.;20526200;Alliansen
-2015;Expense;Avgiften till Europeiska unionen;40126178;Alliansen
-2015;Income;1100 Direkta skatter på arbete;565998256;Redgreen
-2015;Income;1200 Indirekta skatter på arbete;500101604;Redgreen
-2015;Income;1300 Skatt på kapital;189562100;Redgreen
-2015;Income;1400 Skatt på konsumtion och insatsvaror;494501021;Redgreen
-2015;Income;1500 Skatt på import;5956256;Redgreen
-2015;Income;1600 Restförda och övriga skatter;3407314;Redgreen
-2015;Income;1700 Avgående poster skatter till EU;-5956256;Redgreen
-2015;Income;1800 Avgående poster skatter till andra sektorer;-874239217;Redgreen
-2015;Income;1900 Periodiseringar;-3158187;Redgreen
-2015;Income;2000 Inkomster av statens verksamhet;33649944;Redgreen
-2015;Income;3000 Inkomster av försåld egendom;15000000;Redgreen
-2015;Income;4000 Återbetalning av lån;875900;Redgreen
-2015;Income;5000 Kalkylmässiga inkomster;9998000;Redgreen
-2015;Income;6000 Bidrag m.m. från EU;10332700;Redgreen
-2015;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-83523685;Redgreen
-2015;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;-8431911;Redgreen
-2015;Expense;Rikets styrelse;12413383;Redgreen
-2015;Expense;Samhällsekonomi och finansförvaltning;14589790;Redgreen
-2015;Expense;Skatt tull och exekution;10580976;Redgreen
-2015;Expense;Rättsväsendet;40757864;Redgreen
-2015;Expense;Internationell samverkan;1899062;Redgreen
-2015;Expense;Försvar och samhällets krisberedskap;48588647;Redgreen
-2015;Expense;Internationellt bistånd;30009056;Redgreen
-2015;Expense;Migration;17433309;Redgreen
-2015;Expense;Hälsovård sjukvård och social omsorg;64441159;Redgreen
-2015;Expense;Ekonomisk trygghet sjukdom funktionsneds;101016487;Redgreen
-2015;Expense;Ekonomisk trygghet vid ålderdom;38166036;Redgreen
-2015;Expense;Ekonomisk trygghet för familjer och barn;83908698;Redgreen
-2015;Expense;Integration och jämställdhet;16807043;Redgreen
-2015;Expense;Arbetsmarknad och arbetsliv;71846204;Redgreen
-2015;Expense;Studiestöd;21177307;Redgreen
-2015;Expense;Utbildning och universitetsforskning;64152606;Redgreen
-2015;Expense;Kultur medier trossamfund och fritid;13150941;Redgreen
-2015;Expense;Samhällsplanering bostadsförsörjning;1508973;Redgreen
-2015;Expense;Regional tillväxt;2700801;Redgreen
-2015;Expense;Allmän miljö- och naturvård;6881418;Redgreen
-2015;Expense;Energi;2495609;Redgreen
-2015;Expense;Kommunikationer;50078203;Redgreen
-2015;Expense;Areella näringar landsbygd och livsmedel;15787422;Redgreen
-2015;Expense;Näringsliv;5366162;Redgreen
-2015;Expense;Allmänna bidrag till kommuner;94490852;Redgreen
-2015;Expense;Statsskuldsräntor m.m.;20526200;Redgreen
-2015;Expense;Avgiften till Europeiska unionen;40126178;Redgreen
-2018;Expense;Rikets styrelse;14426335;L
-2018;Expense;Samhällsekonomi och finansförvaltning;15951497;L
-2018;Expense;Skatt tull och exekution;11408384;L
-2018;Expense;Rättsväsendet;48600783;L
-2018;Expense;Internationell samverkan;1997032;L
-2018;Expense;Försvar och samhällets krisberedskap;55022520;L
-2018;Expense;Internationellt bistånd;42985209;L
-2018;Expense;Migration;15404230;L
-2018;Expense;Hälsovård sjukvård och social omsorg;78811041;L
-2018;Expense;Ekonomisk trygghet sjukdom funktionsneds;96401229;L
-2018;Expense;Ekonomisk trygghet vid ålderdom;34455669;L
-2018;Expense;Ekonomisk trygghet för familjer och barn;95059418;L
-2018;Expense;Integration och jämställdhet;26899209;L
-2018;Expense;Arbetsmarknad och arbetsliv;62106440;L
-2018;Expense;Studiestöd;20433908;L
-2018;Expense;Utbildning och universitetsforskning;77322638;L
-2018;Expense;Kultur medier trossamfund och fritid;15212752;L
-2018;Expense;Samhällsplanering bostadsförsörjning;2872648;L
-2018;Expense;Regional tillväxt;3308525;L
-2018;Expense;Allmän miljö- och naturvård;7664788;L
-2018;Expense;Energi;2688354;L
-2018;Expense;Kommunikationer;54964505;L
-2018;Expense;Areella näringar landsbygd och livsmedel;18242779;L
-2018;Expense;Näringsliv;5772651;L
-2018;Expense;Allmänna bidrag till kommuner;114695385;L
-2018;Expense;Statsskuldsräntor m.m.;11408200;L
-2018;Expense;Avgiften till Europeiska unionen;39510631;L
-2018;Income;1100 Direkta skatter på arbete;637795381;L
-2018;Income;1200 Indirekta skatter på arbete;581780420;L
-2018;Income;1300 Skatt på kapital;257292596;L
-2018;Income;1400 Skatt på konsumtion och insatsvaror;583812265;L
-2018;Income;1500 Skatt på import;6812759;L
-2018;Income;1600 Restförda och övriga skatter;15254541;L
-2018;Income;1700 Avgående poster skatter till EU;-6812759;L
-2018;Income;1800 Avgående poster skatter till andra sektorer;-1000458690;L
-2018;Income;1900 Periodiseringar;-6990001;L
-2018;Income;2000 Inkomster av statens verksamhet;30433948;L
-2018;Income;3000 Inkomster av försåld egendom;5000000;L
-2018;Income;4000 Återbetalning av lån;766470;L
-2018;Income;5000 Kalkylmässiga inkomster;11873000;L
-2018;Income;6000 Bidrag m.m. från EU;12910157;L
-2018;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-103711910;L
-2018;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;L
-2018;Income;1100 Direkta skatter på arbete;631201651;KD
-2018;Income;1200 Indirekta skatter på arbete;581564820;KD
-2018;Income;1300 Skatt på kapital;257133596;KD
-2018;Income;1400 Skatt på konsumtion och insatsvaror;599533265;KD
-2018;Income;1500 Skatt på import;6812759;KD
-2018;Income;1600 Restförda och övriga skatter;15254541;KD
-2018;Income;1700 Avgående poster skatter till EU;-6812759;KD
-2018;Income;1800 Avgående poster skatter till andra sektorer;-1020292960;KD
-2018;Income;1900 Periodiseringar;-6990001;KD
-2018;Income;2000 Inkomster av statens verksamhet;30733948;KD
-2018;Income;3000 Inkomster av försåld egendom;5000000;KD
-2018;Income;4000 Återbetalning av lån;766470;KD
-2018;Income;5000 Kalkylmässiga inkomster;11873000;KD
-2018;Income;6000 Bidrag m.m. från EU;12910157;KD
-2018;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-103711910;KD
-2018;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;KD
-2018;Expense;Rikets styrelse;14280185;KD
-2018;Expense;Samhällsekonomi och finansförvaltning;16045547;KD
-2018;Expense;Skatt tull och exekution;11348384;KD
-2018;Expense;Rättsväsendet;45926783;KD
-2018;Expense;Internationell samverkan;1963032;KD
-2018;Expense;Försvar och samhällets krisberedskap;54375520;KD
-2018;Expense;Internationellt bistånd;42993709;KD
-2018;Expense;Migration;17261230;KD
-2018;Expense;Hälsovård sjukvård och social omsorg;86428041;KD
-2018;Expense;Ekonomisk trygghet sjukdom funktionsneds;98669229;KD
-2018;Expense;Ekonomisk trygghet vid ålderdom;36173669;KD
-2018;Expense;Ekonomisk trygghet för familjer och barn;97943418;KD
-2018;Expense;Integration och jämställdhet;24667909;KD
-2018;Expense;Arbetsmarknad och arbetsliv;65941907;KD
-2018;Expense;Studiestöd;20540692;KD
-2018;Expense;Utbildning och universitetsforskning;78737638;KD
-2018;Expense;Kultur medier trossamfund och fritid;15056752;KD
-2018;Expense;Samhällsplanering bostadsförsörjning;2814648;KD
-2018;Expense;Regional tillväxt;3425525;KD
-2018;Expense;Allmän miljö- och naturvård;7202788;KD
-2018;Expense;Energi;2905354;KD
-2018;Expense;Kommunikationer;55812705;KD
-2018;Expense;Areella näringar landsbygd och livsmedel;18456279;KD
-2018;Expense;Näringsliv;6053134;KD
-2018;Expense;Allmänna bidrag till kommuner;85918385;KD
-2018;Expense;Statsskuldsräntor m.m.;11355200;KD
-2018;Expense;Avgiften till Europeiska unionen;39510631;KD
-2018;Income;1100 Direkta skatter på arbete;626281381;SD
-2018;Income;1200 Indirekta skatter på arbete;579371420;SD
-2018;Income;1300 Skatt på kapital;255487596;SD
-2018;Income;1400 Skatt på konsumtion och insatsvaror;594250265;SD
-2018;Income;1500 Skatt på import;6812759;SD
-2018;Income;1600 Restförda och övriga skatter;14884541;SD
-2018;Income;1700 Avgående poster skatter till EU;-6812759;SD
-2018;Income;1800 Avgående poster skatter till andra sektorer;-1020050690;SD
-2018;Income;1900 Periodiseringar;-6990001;SD
-2018;Income;2000 Inkomster av statens verksamhet;27723948;SD
-2018;Income;3000 Inkomster av försåld egendom;5000000;SD
-2018;Income;4000 Återbetalning av lån;766470;SD
-2018;Income;5000 Kalkylmässiga inkomster;11873000;SD
-2018;Income;6000 Bidrag m.m. från EU;12910157;SD
-2018;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-103711910;SD
-2018;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;SD
-2018;Expense;Rikets styrelse;13895535;SD
-2018;Expense;Samhällsekonomi och finansförvaltning;16273547;SD
-2018;Expense;Skatt tull och exekution;11753384;SD
-2018;Expense;Rättsväsendet;48426783;SD
-2018;Expense;Internationell samverkan;3020032;SD
-2018;Expense;Försvar och samhällets krisberedskap;57835520;SD
-2018;Expense;Internationellt bistånd;43235209;SD
-2018;Expense;Migration;9951554;SD
-2018;Expense;Hälsovård sjukvård och social omsorg;81244041;SD
-2018;Expense;Ekonomisk trygghet sjukdom funktionsneds;105389229;SD
-2018;Expense;Ekonomisk trygghet vid ålderdom;38780669;SD
-2018;Expense;Ekonomisk trygghet för familjer och barn;91365731;SD
-2018;Expense;Integration och jämställdhet;10151538;SD
-2018;Expense;Arbetsmarknad och arbetsliv;63575237;SD
-2018;Expense;Studiestöd;23777692;SD
-2018;Expense;Utbildning och universitetsforskning;78433638;SD
-2018;Expense;Kultur medier trossamfund och fritid;15349470;SD
-2018;Expense;Samhällsplanering bostadsförsörjning;2601648;SD
-2018;Expense;Regional tillväxt;3921525;SD
-2018;Expense;Allmän miljö- och naturvård;7332788;SD
-2018;Expense;Energi;2683354;SD
-2018;Expense;Kommunikationer;58418505;SD
-2018;Expense;Areella näringar landsbygd och livsmedel;19343779;SD
-2018;Expense;Näringsliv;7020651;SD
-2018;Expense;Allmänna bidrag till kommuner;87738785;SD
-2018;Expense;Statsskuldsräntor m.m.;11355200;SD
-2018;Expense;Avgiften till Europeiska unionen;39510631;SD
-2018;Income;1100 Direkta skatter på arbete;640749381;C
-2018;Income;1200 Indirekta skatter på arbete;562377420;C
-2018;Income;1300 Skatt på kapital;257882596;C
-2018;Income;1400 Skatt på konsumtion och insatsvaror;583658265;C
-2018;Income;1500 Skatt på import;6812759;C
-2018;Income;1600 Restförda och övriga skatter;14977541;C
-2018;Income;1700 Avgående poster skatter till EU;-6812759;C
-2018;Income;1800 Avgående poster skatter till andra sektorer;-995269690;C
-2018;Income;1900 Periodiseringar;-6990001;C
-2018;Income;2000 Inkomster av statens verksamhet;30633948;C
-2018;Income;3000 Inkomster av försåld egendom;5000000;C
-2018;Income;4000 Återbetalning av lån;766470;C
-2018;Income;5000 Kalkylmässiga inkomster;11873000;C
-2018;Income;6000 Bidrag m.m. från EU;12910157;C
-2018;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-103414910;C
-2018;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;C
-2018;Expense;Rikets styrelse;14108675;C
-2018;Expense;Samhällsekonomi och finansförvaltning;15956657;C
-2018;Expense;Skatt tull och exekution;11257394;C
-2018;Expense;Rättsväsendet;46715083;C
-2018;Expense;Internationell samverkan;1945372;C
-2018;Expense;Försvar och samhällets krisberedskap;53832520;C
-2018;Expense;Internationellt bistånd;42985209;C
-2018;Expense;Migration;15703200;C
-2018;Expense;Hälsovård sjukvård och social omsorg;69870821;C
-2018;Expense;Ekonomisk trygghet sjukdom funktionsneds;93820049;C
-2018;Expense;Ekonomisk trygghet vid ålderdom;33850589;C
-2018;Expense;Ekonomisk trygghet för familjer och barn;93283418;C
-2018;Expense;Integration och jämställdhet;25194854;C
-2018;Expense;Arbetsmarknad och arbetsliv;62089044;C
-2018;Expense;Studiestöd;22830792;C
-2018;Expense;Utbildning och universitetsforskning;74234695;C
-2018;Expense;Kultur medier trossamfund och fritid;14978058;C
-2018;Expense;Samhällsplanering bostadsförsörjning;2894649;C
-2018;Expense;Regional tillväxt;3414525;C
-2018;Expense;Allmän miljö- och naturvård;8342668;C
-2018;Expense;Energi;3438224;C
-2018;Expense;Kommunikationer;54949495;C
-2018;Expense;Areella näringar landsbygd och livsmedel;19212059;C
-2018;Expense;Näringsliv;6760241;C
-2018;Expense;Allmänna bidrag till kommuner;118395385;C
-2018;Expense;Statsskuldsräntor m.m.;11355200;C
-2018;Expense;Avgiften till Europeiska unionen;39510631;C
-2018;Income;1100 Direkta skatter på arbete;629545381;M
-2018;Income;1200 Indirekta skatter på arbete;583648420;M
-2018;Income;1300 Skatt på kapital;254014396;M
-2018;Income;1400 Skatt på konsumtion och insatsvaror;582535265;M
-2018;Income;1500 Skatt på import;6812759;M
-2018;Income;1600 Restförda och övriga skatter;15324541;M
-2018;Income;1700 Avgående poster skatter till EU;-6812759;M
-2018;Income;1800 Avgående poster skatter till andra sektorer;-996023690;M
-2018;Income;1900 Periodiseringar;-6990001;M
-2018;Income;2000 Inkomster av statens verksamhet;30533948;M
-2018;Income;3000 Inkomster av försåld egendom;5000000;M
-2018;Income;4000 Återbetalning av lån;766470;M
-2018;Income;5000 Kalkylmässiga inkomster;11873000;M
-2018;Income;6000 Bidrag m.m. från EU;12910157;M
-2018;Income;7000 Avräkningar m.m. i anslutning till skattesystemet;-103711910;M
-2018;Income;8000 Utgifter som redovisas som krediteringar på skattekonto;0;M
-2018;Expense;Rikets styrelse;14360335;M
-2018;Expense;Samhällsekonomi och finansförvaltning;16184547;M
-2018;Expense;Skatt tull och exekution;11444384;M
-2018;Expense;Rättsväsendet;46138083;M
-2018;Expense;Internationell samverkan;2009032;M
-2018;Expense;Försvar och samhällets krisberedskap;53835520;M
-2018;Expense;Internationellt bistånd;39562209;M
-2018;Expense;Migration;15172630;M
-2018;Expense;Hälsovård sjukvård och social omsorg;76239041;M
-2018;Expense;Ekonomisk trygghet sjukdom funktionsneds;93213129;M
-2018;Expense;Ekonomisk trygghet vid ålderdom;34235669;M
-2018;Expense;Ekonomisk trygghet för familjer och barn;94302918;M
-2018;Expense;Integration och jämställdhet;25245346;M
-2018;Expense;Arbetsmarknad och arbetsliv;65571040;M
-2018;Expense;Studiestöd;22915952;M
-2018;Expense;Utbildning och universitetsforskning;75372966;M
-2018;Expense;Kultur medier trossamfund och fritid;14657892;M
-2018;Expense;Samhällsplanering bostadsförsörjning;2896248;M
-2018;Expense;Regional tillväxt;3879525;M
-2018;Expense;Allmän miljö- och naturvård;7485788;M
-2018;Expense;Energi;2353354;M
-2018;Expense;Kommunikationer;56032705;M
-2018;Expense;Areella näringar landsbygd och livsmedel;18463779;M
-2018;Expense;Näringsliv;6532651;M
-2018;Expense;Allmänna bidrag till kommuner;116764385;M
-2018;Expense;Statsskuldsräntor m.m.;11355200;M
-2018;Expense;Avgiften till Europeiska unionen;39510631;M
+Year,Type,Budget_Area,SEK,Party
+2017,Expense,Rikets styrelse,13268476,Redgreen
+2017,Expense,Samhällsekonomi och finansförvaltning,15258562,Redgreen
+2017,Expense,Skatt tull och exekution,10985564,Redgreen
+2017,Expense,Rättsväsendet,42466641,Redgreen
+2017,Expense,Internationell samverkan,1913291,Redgreen
+2017,Expense,Försvar och samhällets krisberedskap,50254364,Redgreen
+2017,Expense,Internationellt bistånd,34990005,Redgreen
+2017,Expense,Migration,32580319,Redgreen
+2017,Expense,Hälsovård sjukvård och social omsorg,68496164,Redgreen
+2017,Expense,Ekonomisk trygghet sjukdom funktionsneds,107051805,Redgreen
+2017,Expense,Ekonomisk trygghet vid ålderdom,34774451,Redgreen
+2017,Expense,Ekonomisk trygghet för familjer och barn,89491398,Redgreen
+2017,Expense,Integration och jämställdhet,32635380,Redgreen
+2017,Expense,Arbetsmarknad och arbetsliv,75656514,Redgreen
+2017,Expense,Studiestöd,22433999,Redgreen
+2017,Expense,Utbildning och universitetsforskning,72381263,Redgreen
+2017,Expense,Kultur medier trossamfund och fritid,14521254,Redgreen
+2017,Expense,Samhällsplanering bostadsförsörjning,6764560,Redgreen
+2017,Expense,Regional tillväxt,3595481,Redgreen
+2017,Expense,Allmän miljö- och naturvård,8403539,Redgreen
+2017,Expense,Energi,2876898,Redgreen
+2017,Expense,Kommunikationer,55114917,Redgreen
+2017,Expense,Areella näringar landsbygd och livsmedel,17189401,Redgreen
+2017,Expense,Näringsliv,6456020,Redgreen
+2017,Expense,Allmänna bidrag till kommuner,105554920,Redgreen
+2017,Expense,Statsskuldsräntor m.m.,16467790,Redgreen
+2017,Expense,Avgiften till Europeiska unionen,29586305,Redgreen
+2017,Expense,Rikets styrelse,13070800,M
+2017,Expense,Samhällsekonomi och finansförvaltning,15088123,M
+2017,Expense,Skatt tull och exekution,10973852,M
+2017,Expense,Rättsväsendet,43522641,M
+2017,Expense,Internationell samverkan,1913291,M
+2017,Expense,Försvar och samhällets krisberedskap,50254364,M
+2017,Expense,Internationellt bistånd,33592005,M
+2017,Expense,Migration,32071998,M
+2017,Expense,Hälsovård sjukvård och social omsorg,68060246,M
+2017,Expense,Ekonomisk trygghet sjukdom funktionsneds,102368575,M
+2017,Expense,Ekonomisk trygghet vid ålderdom,34972809,M
+2017,Expense,Ekonomisk trygghet för familjer och barn,88784898,M
+2017,Expense,Integration och jämställdhet,32546380,M
+2017,Expense,Arbetsmarknad och arbetsliv,72027932,M
+2017,Expense,Studiestöd,22583346,M
+2017,Expense,Utbildning och universitetsforskning,72392263,M
+2017,Expense,Kultur medier trossamfund och fritid,14042089,M
+2017,Expense,Samhällsplanering bostadsförsörjning,1229043,M
+2017,Expense,Regional tillväxt,3595481,M
+2017,Expense,Allmän miljö- och naturvård,6287099,M
+2017,Expense,Energi,2455906,M
+2017,Expense,Kommunikationer,54694917,M
+2017,Expense,Areella näringar landsbygd och livsmedel,16887133,M
+2017,Expense,Näringsliv,6055082,M
+2017,Expense,Allmänna bidrag till kommuner,105958920,M
+2017,Expense,Statsskuldsräntor m.m.,16467790,M
+2017,Expense,Avgiften till Europeiska unionen,29586305,M
+2017,Expense,Rikets styrelse,13242750,L
+2017,Expense,Samhällsekonomi och finansförvaltning,15095178,L
+2017,Expense,Skatt tull och exekution,11004423,L
+2017,Expense,Rättsväsendet,43278681,L
+2017,Expense,Internationell samverkan,1913065,L
+2017,Expense,Försvar och samhällets krisberedskap,52221574,L
+2017,Expense,Internationellt bistånd,35453878,L
+2017,Expense,Migration,32111705,L
+2017,Expense,Hälsovård sjukvård och social omsorg,67973685,L
+2017,Expense,Ekonomisk trygghet sjukdom funktionsneds,102094805,L
+2017,Expense,Ekonomisk trygghet vid ålderdom,35073357,L
+2017,Expense,Ekonomisk trygghet för familjer och barn,89496398,L
+2017,Expense,Integration och jämställdhet,33229159,L
+2017,Expense,Arbetsmarknad och arbetsliv,69104673,L
+2017,Expense,Studiestöd,21152814,L
+2017,Expense,Utbildning och universitetsforskning,71743837,L
+2017,Expense,Kultur medier trossamfund och fritid,13923697,L
+2017,Expense,Samhällsplanering bostadsförsörjning,1171303,L
+2017,Expense,Regional tillväxt,3507481,L
+2017,Expense,Allmän miljö- och naturvård,6102569,L
+2017,Expense,Energi,2570903,L
+2017,Expense,Kommunikationer,54463244,L
+2017,Expense,Areella näringar landsbygd och livsmedel,16978222,L
+2017,Expense,Näringsliv,5513544,L
+2017,Expense,Allmänna bidrag till kommuner,99620920,L
+2017,Expense,Statsskuldsräntor m.m.,16467790,L
+2017,Expense,Avgiften till Europeiska unionen,29586305,L
+2017,Expense,Rikets styrelse,12864915,KD
+2017,Expense,Samhällsekonomi och finansförvaltning,15088234,KD
+2017,Expense,Skatt tull och exekution,10938852,KD
+2017,Expense,Rättsväsendet,43075641,KD
+2017,Expense,Internationell samverkan,1912836,KD
+2017,Expense,Försvar och samhällets krisberedskap,50294364,KD
+2017,Expense,Internationellt bistånd,34990005,KD
+2017,Expense,Migration,34586752,KD
+2017,Expense,Hälsovård sjukvård och social omsorg,73075248,KD
+2017,Expense,Ekonomisk trygghet sjukdom funktionsneds,104403675,KD
+2017,Expense,Ekonomisk trygghet vid ålderdom,36072809,KD
+2017,Expense,Ekonomisk trygghet för familjer och barn,92459398,KD
+2017,Expense,Integration och jämställdhet,31333521,KD
+2017,Expense,Arbetsmarknad och arbetsliv,69197927,KD
+2017,Expense,Studiestöd,18953849,KD
+2017,Expense,Utbildning och universitetsforskning,73024789,KD
+2017,Expense,Kultur medier trossamfund och fritid,13965938,KD
+2017,Expense,Samhällsplanering bostadsförsörjning,1160971,KD
+2017,Expense,Regional tillväxt,3599481,KD
+2017,Expense,Allmän miljö- och naturvård,5448159,KD
+2017,Expense,Energi,2763906,KD
+2017,Expense,Kommunikationer,55467375,KD
+2017,Expense,Areella näringar landsbygd och livsmedel,17241538,KD
+2017,Expense,Näringsliv,5280105,KD
+2017,Expense,Allmänna bidrag till kommuner,94724920,KD
+2017,Expense,Statsskuldsräntor m.m.,16467790,KD
+2017,Expense,Avgiften till Europeiska unionen,29586305,KD
+2017,Expense,Rikets styrelse,12923802,C
+2017,Expense,Samhällsekonomi och finansförvaltning,14756624,C
+2017,Expense,Skatt tull och exekution,10879354,C
+2017,Expense,Rättsväsendet,42981719,C
+2017,Expense,Internationell samverkan,1901322,C
+2017,Expense,Försvar och samhällets krisberedskap,50249364,C
+2017,Expense,Internationellt bistånd,35490005,C
+2017,Expense,Migration,32556398,C
+2017,Expense,Hälsovård sjukvård och social omsorg,63532242,C
+2017,Expense,Ekonomisk trygghet sjukdom funktionsneds,103096673,C
+2017,Expense,Ekonomisk trygghet vid ålderdom,34355809,C
+2017,Expense,Ekonomisk trygghet för familjer och barn,87227398,C
+2017,Expense,Integration och jämställdhet,32781520,C
+2017,Expense,Arbetsmarknad och arbetsliv,68394273,C
+2017,Expense,Studiestöd,21390756,C
+2017,Expense,Utbildning och universitetsforskning,69657197,C
+2017,Expense,Kultur medier trossamfund och fritid,13918928,C
+2017,Expense,Samhällsplanering bostadsförsörjning,1230464,C
+2017,Expense,Regional tillväxt,3575481,C
+2017,Expense,Allmän miljö- och naturvård,6265089,C
+2017,Expense,Energi,3020904,C
+2017,Expense,Kommunikationer,54232252,C
+2017,Expense,Areella näringar landsbygd och livsmedel,17259141,C
+2017,Expense,Näringsliv,6045083,C
+2017,Expense,Allmänna bidrag till kommuner,105696920,C
+2017,Expense,Statsskuldsräntor m.m.,16467790,C
+2017,Expense,Avgiften till Europeiska unionen,29586305,C
+2017,Expense,Rikets styrelse,12658976,SD
+2017,Expense,Samhällsekonomi och finansförvaltning,15450562,SD
+2017,Expense,Skatt tull och exekution,11360564,SD
+2017,Expense,Rättsväsendet,45133641,SD
+2017,Expense,Internationell samverkan,2754291,SD
+2017,Expense,Försvar och samhällets krisberedskap,52346364,SD
+2017,Expense,Internationellt bistånd,36040005,SD
+2017,Expense,Migration,20059839,SD
+2017,Expense,Hälsovård sjukvård och social omsorg,71239964,SD
+2017,Expense,Ekonomisk trygghet sjukdom funktionsneds,111461805,SD
+2017,Expense,Ekonomisk trygghet vid ålderdom,39941551,SD
+2017,Expense,Ekonomisk trygghet för familjer och barn,88984798,SD
+2017,Expense,Integration och jämställdhet,15887734,SD
+2017,Expense,Arbetsmarknad och arbetsliv,78128514,SD
+2017,Expense,Studiestöd,22833999,SD
+2017,Expense,Utbildning och universitetsforskning,71034120,SD
+2017,Expense,Kultur medier trossamfund och fritid,14625505,SD
+2017,Expense,Samhällsplanering bostadsförsörjning,2389560,SD
+2017,Expense,Regional tillväxt,3595481,SD
+2017,Expense,Allmän miljö- och naturvård,6121539,SD
+2017,Expense,Energi,2521898,SD
+2017,Expense,Kommunikationer,57272617,SD
+2017,Expense,Areella näringar landsbygd och livsmedel,19197401,SD
+2017,Expense,Näringsliv,6015020,SD
+2017,Expense,Allmänna bidrag till kommuner,79592920,SD
+2017,Expense,Statsskuldsräntor m.m.,16467790,SD
+2017,Expense,Avgiften till Europeiska unionen,29586305,SD
+2017,Income,1100 Direkta skatter på arbete,644673535,Redgreen
+2017,Income,1200 Indirekta skatter på arbete,562224218,Redgreen
+2017,Income,1300 Skatt på kapital,228671126,Redgreen
+2017,Income,1400 Skatt på konsumtion och insatsvaror,542572582,Redgreen
+2017,Income,1500 Skatt på import,6544499,Redgreen
+2017,Income,1600 Restförda och övriga skatter,11329183,Redgreen
+2017,Income,1700 Avgående poster skatter till EU,-6544499,Redgreen
+2017,Income,1800 Avgående poster skatter till andra sektorer,-968068432,Redgreen
+2017,Income,1900 Periodiseringar,5312418,Redgreen
+2017,Income,2000 Inkomster av statens verksamhet,27763799,Redgreen
+2017,Income,3000 Inkomster av försåld egendom,5000000,Redgreen
+2017,Income,4000 Återbetalning av lån,691450,Redgreen
+2017,Income,5000 Kalkylmässiga inkomster,11294000,Redgreen
+2017,Income,6000 Bidrag m.m. från EU,11271830,Redgreen
+2017,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-100001880,Redgreen
+2017,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,Redgreen
+2017,Income,1100 Direkta skatter på arbete,636109535,SD
+2017,Income,1200 Indirekta skatter på arbete,559024218,SD
+2017,Income,1300 Skatt på kapital,229471126,SD
+2017,Income,1400 Skatt på konsumtion och insatsvaror,550326582,SD
+2017,Income,1500 Skatt på import,6544499,SD
+2017,Income,1600 Restförda och övriga skatter,11329183,SD
+2017,Income,1700 Avgående poster skatter till EU,-6544499,SD
+2017,Income,1800 Avgående poster skatter till andra sektorer,-990834432,SD
+2017,Income,1900 Periodiseringar,5312418,SD
+2017,Income,2000 Inkomster av statens verksamhet,27763799,SD
+2017,Income,3000 Inkomster av försåld egendom,5000000,SD
+2017,Income,4000 Återbetalning av lån,691450,SD
+2017,Income,5000 Kalkylmässiga inkomster,11294000,SD
+2017,Income,6000 Bidrag m.m. från EU,11271830,SD
+2017,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-100001880,SD
+2017,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,SD
+2017,Income,1100 Direkta skatter på arbete,630104535,C
+2017,Income,1200 Indirekta skatter på arbete,540533218,C
+2017,Income,1300 Skatt på kapital,234762126,C
+2017,Income,1400 Skatt på konsumtion och insatsvaror,548714582,C
+2017,Income,1500 Skatt på import,6544499,C
+2017,Income,1600 Restförda och övriga skatter,10738986,C
+2017,Income,1700 Avgående poster skatter till EU,-6544499,C
+2017,Income,1800 Avgående poster skatter till andra sektorer,-966776432,C
+2017,Income,1900 Periodiseringar,5312418,C
+2017,Income,2000 Inkomster av statens verksamhet,27613799,C
+2017,Income,3000 Inkomster av försåld egendom,5000000,C
+2017,Income,4000 Återbetalning av lån,691450,C
+2017,Income,5000 Kalkylmässiga inkomster,11294000,C
+2017,Income,6000 Bidrag m.m. från EU,11271830,C
+2017,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-99411683,C
+2017,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,C
+2017,Income,1100 Direkta skatter på arbete,628992535,KD
+2017,Income,1200 Indirekta skatter på arbete,559295218,KD
+2017,Income,1300 Skatt på kapital,230267126,KD
+2017,Income,1400 Skatt på konsumtion och insatsvaror,546182582,KD
+2017,Income,1500 Skatt på import,6544499,KD
+2017,Income,1600 Restförda och övriga skatter,11329183,KD
+2017,Income,1700 Avgående poster skatter till EU,-6544499,KD
+2017,Income,1800 Avgående poster skatter till andra sektorer,-967654432,KD
+2017,Income,1900 Periodiseringar,5312418,KD
+2017,Income,2000 Inkomster av statens verksamhet,27463799,KD
+2017,Income,3000 Inkomster av försåld egendom,5000000,KD
+2017,Income,4000 Återbetalning av lån,691450,KD
+2017,Income,5000 Kalkylmässiga inkomster,11294000,KD
+2017,Income,6000 Bidrag m.m. från EU,11271830,KD
+2017,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-100001880,KD
+2017,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,KD
+2017,Income,1100 Direkta skatter på arbete,624799535,L
+2017,Income,1200 Indirekta skatter på arbete,558258218,L
+2017,Income,1300 Skatt på kapital,231351126,L
+2017,Income,1400 Skatt på konsumtion och insatsvaror,546357582,L
+2017,Income,1500 Skatt på import,6544499,L
+2017,Income,1600 Restförda och övriga skatter,11329183,L
+2017,Income,1700 Avgående poster skatter till EU,-6544499,L
+2017,Income,1800 Avgående poster skatter till andra sektorer,-968944432,L
+2017,Income,1900 Periodiseringar,5312418,L
+2017,Income,2000 Inkomster av statens verksamhet,27363799,L
+2017,Income,3000 Inkomster av försåld egendom,5000000,L
+2017,Income,4000 Återbetalning av lån,691450,L
+2017,Income,5000 Kalkylmässiga inkomster,11294000,L
+2017,Income,6000 Bidrag m.m. från EU,11271830,L
+2017,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-100001880,L
+2017,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,L
+2017,Income,1100 Direkta skatter på arbete,636047535,M
+2017,Income,1200 Indirekta skatter på arbete,557353218,M
+2017,Income,1300 Skatt på kapital,227718126,M
+2017,Income,1400 Skatt på konsumtion och insatsvaror,545445582,M
+2017,Income,1500 Skatt på import,6544499,M
+2017,Income,1600 Restförda och övriga skatter,11329183,M
+2017,Income,1700 Avgående poster skatter till EU,-6544499,M
+2017,Income,1800 Avgående poster skatter till andra sektorer,-968837432,M
+2017,Income,1900 Periodiseringar,5312418,M
+2017,Income,2000 Inkomster av statens verksamhet,27559799,M
+2017,Income,3000 Inkomster av försåld egendom,5000000,M
+2017,Income,4000 Återbetalning av lån,691450,M
+2017,Income,5000 Kalkylmässiga inkomster,11294000,M
+2017,Income,6000 Bidrag m.m. från EU,11271830,M
+2017,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-100001880,M
+2017,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,M
+2018,Expense,Rikets styrelse,14531335,Redgreen
+2018,Expense,Samhällsekonomi och finansförvaltning,16285547,Redgreen
+2018,Expense,Skatt tull och exekution,11399384,Redgreen
+2018,Expense,Rättsväsendet,45776783,Redgreen
+2018,Expense,Internationell samverkan,2009032,Redgreen
+2018,Expense,Försvar och samhällets krisberedskap,53835520,Redgreen
+2018,Expense,Internationellt bistånd,42985209,Redgreen
+2018,Expense,Migration,15748230,Redgreen
+2018,Expense,Hälsovård sjukvård och social omsorg,77696041,Redgreen
+2018,Expense,Ekonomisk trygghet sjukdom funktionsneds,102615229,Redgreen
+2018,Expense,Ekonomisk trygghet vid ålderdom,34635669,Redgreen
+2018,Expense,Ekonomisk trygghet för familjer och barn,94586418,Redgreen
+2018,Expense,Integration och jämställdhet,25600209,Redgreen
+2018,Expense,Arbetsmarknad och arbetsliv,74083840,Redgreen
+2018,Expense,Studiestöd,24352692,Redgreen
+2018,Expense,Utbildning och universitetsforskning,77965638,Redgreen
+2018,Expense,Kultur medier trossamfund och fritid,15879752,Redgreen
+2018,Expense,Samhällsplanering bostadsförsörjning,6951648,Redgreen
+2018,Expense,Regional tillväxt,3921525,Redgreen
+2018,Expense,Allmän miljö- och naturvård,10772788,Redgreen
+2018,Expense,Energi,3588354,Redgreen
+2018,Expense,Kommunikationer,56418505,Redgreen
+2018,Expense,Areella näringar landsbygd och livsmedel,19253779,Redgreen
+2018,Expense,Näringsliv,7370651,Redgreen
+2018,Expense,Allmänna bidrag till kommuner,111385385,Redgreen
+2018,Expense,Statsskuldsräntor m.m.,11355200,Redgreen
+2018,Expense,Avgiften till Europeiska unionen,39510631,Redgreen
+2018,Income,1100 Direkta skatter på arbete,657127381,Redgreen
+2018,Income,1200 Indirekta skatter på arbete,581913420,Redgreen
+2018,Income,1300 Skatt på kapital,255612596,Redgreen
+2018,Income,1400 Skatt på konsumtion och insatsvaror,580892265,Redgreen
+2018,Income,1500 Skatt på import,6812759,Redgreen
+2018,Income,1600 Restförda och övriga skatter,15254541,Redgreen
+2018,Income,1700 Avgående poster skatter till EU,-6812759,Redgreen
+2018,Income,1800 Avgående poster skatter till andra sektorer,-998580690,Redgreen
+2018,Income,1900 Periodiseringar,-6990001,Redgreen
+2018,Income,2000 Inkomster av statens verksamhet,30833948,Redgreen
+2018,Income,3000 Inkomster av försåld egendom,5000000,Redgreen
+2018,Income,4000 Återbetalning av lån,766470,Redgreen
+2018,Income,5000 Kalkylmässiga inkomster,11873000,Redgreen
+2018,Income,6000 Bidrag m.m. från EU,12910157,Redgreen
+2018,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-103711910,Redgreen
+2018,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,Redgreen
+2016,Expense,Rikets styrelse,12717244,Redgreen
+2016,Expense,Samhällsekonomi och finansförvaltning,14812312,Redgreen
+2016,Expense,Skatt tull och exekution,10782946,Redgreen
+2016,Expense,Rättsväsendet,41573737,Redgreen
+2016,Expense,Internationell samverkan,1905203,Redgreen
+2016,Expense,Försvar och samhällets krisberedskap,48827432,Redgreen
+2016,Expense,Internationellt bistånd,32357474,Redgreen
+2016,Expense,Migration,19419719,Redgreen
+2016,Expense,Hälsovård sjukvård och social omsorg,69237676,Redgreen
+2016,Expense,Ekonomisk trygghet sjukdom funktionsneds,109868281,Redgreen
+2016,Expense,Ekonomisk trygghet vid ålderdom,36184250,Redgreen
+2016,Expense,Ekonomisk trygghet för familjer och barn,87129050,Redgreen
+2016,Expense,Integration och jämställdhet,21070265,Redgreen
+2016,Expense,Arbetsmarknad och arbetsliv,79681475,Redgreen
+2016,Expense,Studiestöd,21707932,Redgreen
+2016,Expense,Utbildning och universitetsforskning,69452400,Redgreen
+2016,Expense,Kultur medier trossamfund och fritid,13694535,Redgreen
+2016,Expense,Samhällsplanering bostadsförsörjning,7064024,Redgreen
+2016,Expense,Regional tillväxt,3255721,Redgreen
+2016,Expense,Allmän miljö- och naturvård,7661756,Redgreen
+2016,Expense,Energi,2812038,Redgreen
+2016,Expense,Kommunikationer,54122036,Redgreen
+2016,Expense,Areella näringar landsbygd och livsmedel,18919553,Redgreen
+2016,Expense,Näringsliv,5998273,Redgreen
+2016,Expense,Allmänna bidrag till kommuner,93398252,Redgreen
+2016,Expense,Statsskuldsräntor m.m.,10769176,Redgreen
+2016,Expense,Avgiften till Europeiska unionen,31827167,Redgreen
+2016,Income,1100 Direkta skatter på arbete,606496570,Redgreen
+2016,Income,1200 Indirekta skatter på arbete,527200667,Redgreen
+2016,Income,1300 Skatt på kapital,200279507,Redgreen
+2016,Income,1400 Skatt på konsumtion och insatsvaror,510395500,Redgreen
+2016,Income,1500 Skatt på import,6455282,Redgreen
+2016,Income,1600 Restförda och övriga skatter,5780139,Redgreen
+2016,Income,1700 Avgående poster skatter till EU,-6455282,Redgreen
+2016,Income,1800 Avgående poster skatter till andra sektorer,-917514503,Redgreen
+2016,Income,1900 Periodiseringar,19963915,Redgreen
+2016,Income,2000 Inkomster av statens verksamhet,31148870,Redgreen
+2016,Income,3000 Inkomster av försåld egendom,5000000,Redgreen
+2016,Income,4000 Återbetalning av lån,760800,Redgreen
+2016,Income,5000 Kalkylmässiga inkomster,10719000,Redgreen
+2016,Income,6000 Bidrag m.m. från EU,12705740,Redgreen
+2016,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-88675336,Redgreen
+2016,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,Redgreen
+2016,Expense,Rikets styrelse,12693000,L
+2016,Expense,Samhällsekonomi och finansförvaltning,14619000,L
+2016,Expense,Skatt tull och exekution,10768000,L
+2016,Expense,Rättsväsendet,41564000,L
+2016,Expense,Internationell samverkan,1905000,L
+2016,Expense,Försvar och samhällets krisberedskap,49827000,L
+2016,Expense,Internationellt bistånd,32454000,L
+2016,Expense,Migration,19616000,L
+2016,Expense,Hälsovård sjukvård och social omsorg,66818000,L
+2016,Expense,Ekonomisk trygghet sjukdom funktionsneds,108408000,L
+2016,Expense,Ekonomisk trygghet vid ålderdom,36383000,L
+2016,Expense,Ekonomisk trygghet för familjer och barn,87002000,L
+2016,Expense,Integration och jämställdhet,20401000,L
+2016,Expense,Arbetsmarknad och arbetsliv,73905000,L
+2016,Expense,Studiestöd,19541000,L
+2016,Expense,Utbildning och universitetsforskning,66844000,L
+2016,Expense,Kultur medier trossamfund och fritid,13199000,L
+2016,Expense,Samhällsplanering bostadsförsörjning,1141000,L
+2016,Expense,Regional tillväxt,3256000,L
+2016,Expense,Allmän miljö- och naturvård,5888000,L
+2016,Expense,Energi,2618000,L
+2016,Expense,Kommunikationer,53553000,L
+2016,Expense,Areella näringar landsbygd och livsmedel,18622000,L
+2016,Expense,Näringsliv,5375000,L
+2016,Expense,Allmänna bidrag till kommuner,91445000,L
+2016,Expense,Statsskuldsräntor m.m.,10769000,L
+2016,Expense,Avgiften till Europeiska unionen,31827000,L
+2016,Income,1100 Direkta skatter på arbete,587892000,L
+2016,Income,1200 Indirekta skatter på arbete,523376000,L
+2016,Income,1300 Skatt på kapital,199665000,L
+2016,Income,1400 Skatt på konsumtion och insatsvaror,509215000,L
+2016,Income,1500 Skatt på import,6455000,L
+2016,Income,1600 Restförda och övriga skatter,5780000,L
+2016,Income,1700 Avgående poster skatter till EU,-6455000,L
+2016,Income,1800 Avgående poster skatter till andra sektorer,-917961000,L
+2016,Income,1900 Periodiseringar,19964000,L
+2016,Income,2000 Inkomster av statens verksamhet,31349000,L
+2016,Income,3000 Inkomster av försåld egendom,5000000,L
+2016,Income,4000 Återbetalning av lån,761000,L
+2016,Income,5000 Kalkylmässiga inkomster,10719000,L
+2016,Income,6000 Bidrag m.m. från EU,12706000,L
+2016,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-88675000,L
+2016,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,L
+2016,Expense,Rikets styrelse,12130064,SD
+2016,Expense,Samhällsekonomi och finansförvaltning,14812312,SD
+2016,Expense,Skatt tull och exekution,11051546,SD
+2016,Expense,Rättsväsendet,43535037,SD
+2016,Expense,Internationell samverkan,1925203,SD
+2016,Expense,Försvar och samhällets krisberedskap,51827432,SD
+2016,Expense,Internationellt bistånd,32872500,SD
+2016,Expense,Migration,2967850,SD
+2016,Expense,Hälsovård sjukvård och social omsorg,71402976,SD
+2016,Expense,Ekonomisk trygghet sjukdom funktionsneds,112530281,SD
+2016,Expense,Ekonomisk trygghet vid ålderdom,41355950,SD
+2016,Expense,Ekonomisk trygghet för familjer och barn,86964665,SD
+2016,Expense,Integration och jämställdhet,10665899,SD
+2016,Expense,Arbetsmarknad och arbetsliv,78310975,SD
+2016,Expense,Studiestöd,22108532,SD
+2016,Expense,Utbildning och universitetsforskning,69987061,SD
+2016,Expense,Kultur medier trossamfund och fritid,13802102,SD
+2016,Expense,Samhällsplanering bostadsförsörjning,2103024,SD
+2016,Expense,Regional tillväxt,3255721,SD
+2016,Expense,Allmän miljö- och naturvård,5954256,SD
+2016,Expense,Energi,2472038,SD
+2016,Expense,Kommunikationer,54539036,SD
+2016,Expense,Areella näringar landsbygd och livsmedel,20494553,SD
+2016,Expense,Näringsliv,5794273,SD
+2016,Expense,Allmänna bidrag till kommuner,90753052,SD
+2016,Expense,Statsskuldsräntor m.m.,10769176,SD
+2016,Expense,Avgiften till Europeiska unionen,31827167,SD
+2016,Income,1100 Direkta skatter på arbete,588101370,SD
+2016,Income,1200 Indirekta skatter på arbete,517406935,SD
+2016,Income,1300 Skatt på kapital,203676175,SD
+2016,Income,1400 Skatt på konsumtion och insatsvaror,510320899,SD
+2016,Income,1500 Skatt på import,6455282,SD
+2016,Income,1600 Restförda och övriga skatter,5780138,SD
+2016,Income,1700 Avgående poster skatter till EU,-6455282,SD
+2016,Income,1800 Avgående poster skatter till andra sektorer,-914776302,SD
+2016,Income,1900 Periodiseringar,19963915,SD
+2016,Income,2000 Inkomster av statens verksamhet,32748870,SD
+2016,Income,3000 Inkomster av försåld egendom,5000000,SD
+2016,Income,4000 Återbetalning av lån,760800,SD
+2016,Income,5000 Kalkylmässiga inkomster,10719000,SD
+2016,Income,6000 Bidrag m.m. från EU,12705740,SD
+2016,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-88500736,SD
+2016,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,96900,SD
+2016,Expense,Rikets styrelse,12589744,KD
+2016,Expense,Samhällsekonomi och finansförvaltning,14623312,KD
+2016,Expense,Skatt tull och exekution,10792946,KD
+2016,Expense,Rättsväsendet,41608737,KD
+2016,Expense,Internationell samverkan,1905203,KD
+2016,Expense,Försvar och samhällets krisberedskap,48827432,KD
+2016,Expense,Internationellt bistånd,32357474,KD
+2016,Expense,Migration,19408719,KD
+2016,Expense,Hälsovård sjukvård och social omsorg,65202676,KD
+2016,Expense,Ekonomisk trygghet sjukdom funktionsneds,108651281,KD
+2016,Expense,Ekonomisk trygghet vid ålderdom,36184250,KD
+2016,Expense,Ekonomisk trygghet för familjer och barn,87214050,KD
+2016,Expense,Integration och jämställdhet,19894265,KD
+2016,Expense,Arbetsmarknad och arbetsliv,77282475,KD
+2016,Expense,Studiestöd,19839602,KD
+2016,Expense,Utbildning och universitetsforskning,65589075,KD
+2016,Expense,Kultur medier trossamfund och fritid,13289535,KD
+2016,Expense,Samhällsplanering bostadsförsörjning,1081024,KD
+2016,Expense,Regional tillväxt,3259721,KD
+2016,Expense,Allmän miljö- och naturvård,5435756,KD
+2016,Expense,Energi,2789038,KD
+2016,Expense,Kommunikationer,53898036,KD
+2016,Expense,Areella näringar landsbygd och livsmedel,18992553,KD
+2016,Expense,Näringsliv,5331273,KD
+2016,Expense,Allmänna bidrag till kommuner,106127252,KD
+2016,Expense,Statsskuldsräntor m.m.,10769176,KD
+2016,Expense,Avgiften till Europeiska unionen,31827167,KD
+2016,Income,1100 Direkta skatter på arbete,586196570,KD
+2016,Income,1200 Indirekta skatter på arbete,517730668,KD
+2016,Income,1300 Skatt på kapital,201679508,KD
+2016,Income,1400 Skatt på konsumtion och insatsvaror,514288499,KD
+2016,Income,1500 Skatt på import,6455282,KD
+2016,Income,1600 Restförda och övriga skatter,5780138,KD
+2016,Income,1700 Avgående poster skatter till EU,-6455282,KD
+2016,Income,1800 Avgående poster skatter till andra sektorer,-904014502,KD
+2016,Income,1900 Periodiseringar,19963915,KD
+2016,Income,2000 Inkomster av statens verksamhet,30848870,KD
+2016,Income,3000 Inkomster av försåld egendom,5000000,KD
+2016,Income,4000 Återbetalning av lån,760800,KD
+2016,Income,5000 Kalkylmässiga inkomster,10719000,KD
+2016,Income,6000 Bidrag m.m. från EU,12705740,KD
+2016,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-88675336,KD
+2016,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,KD
+2016,Expense,Rikets styrelse,12600244,M
+2016,Expense,Samhällsekonomi och finansförvaltning,14723312,M
+2016,Expense,Skatt tull och exekution,10787946,M
+2016,Expense,Rättsväsendet,41628737,M
+2016,Expense,Internationell samverkan,1905203,M
+2016,Expense,Försvar och samhällets krisberedskap,48827432,M
+2016,Expense,Internationellt bistånd,31537474,M
+2016,Expense,Migration,19313056,M
+2016,Expense,Hälsovård sjukvård och social omsorg,65168676,M
+2016,Expense,Ekonomisk trygghet sjukdom funktionsneds,108271281,M
+2016,Expense,Ekonomisk trygghet vid ålderdom,36184250,M
+2016,Expense,Ekonomisk trygghet för familjer och barn,86912050,M
+2016,Expense,Integration och jämställdhet,20045265,M
+2016,Expense,Arbetsmarknad och arbetsliv,75736475,M
+2016,Expense,Studiestöd,20457732,M
+2016,Expense,Utbildning och universitetsforskning,66245400,M
+2016,Expense,Kultur medier trossamfund och fritid,13053535,M
+2016,Expense,Samhällsplanering bostadsförsörjning,1184024,M
+2016,Expense,Regional tillväxt,3255721,M
+2016,Expense,Allmän miljö- och naturvård,5665756,M
+2016,Expense,Energi,2509038,M
+2016,Expense,Kommunikationer,54097036,M
+2016,Expense,Areella näringar landsbygd och livsmedel,18703553,M
+2016,Expense,Näringsliv,5501273,M
+2016,Expense,Allmänna bidrag till kommuner,93291252,M
+2016,Expense,Statsskuldsräntor m.m.,10769176,M
+2016,Expense,Avgiften till Europeiska unionen,31827167,M
+2016,Income,1100 Direkta skatter på arbete,587251570,M
+2016,Income,1200 Indirekta skatter på arbete,524730668,M
+2016,Income,1300 Skatt på kapital,200769508,M
+2016,Income,1400 Skatt på konsumtion och insatsvaror,506355499,M
+2016,Income,1500 Skatt på import,6455282,M
+2016,Income,1600 Restförda och övriga skatter,5780138,M
+2016,Income,1700 Avgående poster skatter till EU,-6455282,M
+2016,Income,1800 Avgående poster skatter till andra sektorer,-917714502,M
+2016,Income,1900 Periodiseringar,19963915,M
+2016,Income,2000 Inkomster av statens verksamhet,30898870,M
+2016,Income,3000 Inkomster av försåld egendom,5000000,M
+2016,Income,4000 Återbetalning av lån,760800,M
+2016,Income,5000 Kalkylmässiga inkomster,10719000,M
+2016,Income,6000 Bidrag m.m. från EU,12705740,M
+2016,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-88675336,M
+2016,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,M
+2016,Expense,Rikets styrelse,12502744,C
+2016,Expense,Samhällsekonomi och finansförvaltning,13741812,C
+2016,Expense,Skatt tull och exekution,10768407,C
+2016,Expense,Rättsväsendet,41558737,C
+2016,Expense,Internationell samverkan,1902203,C
+2016,Expense,Försvar och samhällets krisberedskap,48827432,C
+2016,Expense,Internationellt bistånd,32569474,C
+2016,Expense,Migration,18782719,C
+2016,Expense,Hälsovård sjukvård och social omsorg,63080626,C
+2016,Expense,Ekonomisk trygghet sjukdom funktionsneds,108181281,C
+2016,Expense,Ekonomisk trygghet vid ålderdom,36164250,C
+2016,Expense,Ekonomisk trygghet för familjer och barn,86298050,C
+2016,Expense,Integration och jämställdhet,20969265,C
+2016,Expense,Arbetsmarknad och arbetsliv,73340475,C
+2016,Expense,Studiestöd,20629132,C
+2016,Expense,Utbildning och universitetsforskning,65872604,C
+2016,Expense,Kultur medier trossamfund och fritid,13144823,C
+2016,Expense,Samhällsplanering bostadsförsörjning,1162824,C
+2016,Expense,Regional tillväxt,3280721,C
+2016,Expense,Allmän miljö- och naturvård,5784756,C
+2016,Expense,Energi,3134038,C
+2016,Expense,Kommunikationer,54032036,C
+2016,Expense,Areella näringar landsbygd och livsmedel,18907553,C
+2016,Expense,Näringsliv,5441273,C
+2016,Expense,Allmänna bidrag till kommuner,89680252,C
+2016,Expense,Statsskuldsräntor m.m.,10769176,C
+2016,Expense,Avgiften till Europeiska unionen,31827167,C
+2016,Income,1100 Direkta skatter på arbete,593845570,C
+2016,Income,1200 Indirekta skatter på arbete,503740668,C
+2016,Income,1300 Skatt på kapital,204263108,C
+2016,Income,1400 Skatt på konsumtion och insatsvaror,510708499,C
+2016,Income,1500 Skatt på import,6455282,C
+2016,Income,1600 Restförda och övriga skatter,5780138,C
+2016,Income,1700 Avgående poster skatter till EU,-6455282,C
+2016,Income,1800 Avgående poster skatter till andra sektorer,-917884502,C
+2016,Income,1900 Periodiseringar,19963915,C
+2016,Income,2000 Inkomster av statens verksamhet,30648870,C
+2016,Income,3000 Inkomster av försåld egendom,5000000,C
+2016,Income,4000 Återbetalning av lån,760800,C
+2016,Income,5000 Kalkylmässiga inkomster,10719000,C
+2016,Income,6000 Bidrag m.m. från EU,12705740,C
+2016,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-88675336,C
+2016,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,C
+2015,Income,1100 Direkta skatter på arbete,565458256,Alliansen
+2015,Income,1200 Indirekta skatter på arbete,486351604,Alliansen
+2015,Income,1300 Skatt på kapital,190422100,Alliansen
+2015,Income,1400 Skatt på konsumtion och insatsvaror,494234021,Alliansen
+2015,Income,1500 Skatt på import,5956256,Alliansen
+2015,Income,1600 Restförda och övriga skatter,3407314,Alliansen
+2015,Income,1700 Avgående poster skatter till EU,-5956256,Alliansen
+2015,Income,1800 Avgående poster skatter till andra sektorer,-877919217,Alliansen
+2015,Income,1900 Periodiseringar,-3158187,Alliansen
+2015,Income,2000 Inkomster av statens verksamhet,33649944,Alliansen
+2015,Income,3000 Inkomster av försåld egendom,15000000,Alliansen
+2015,Income,4000 Återbetalning av lån,875900,Alliansen
+2015,Income,5000 Kalkylmässiga inkomster,9998000,Alliansen
+2015,Income,6000 Bidrag m.m. från EU,10332700,Alliansen
+2015,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-83523685,Alliansen
+2015,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,-8431911,Alliansen
+2015,Expense,Rikets styrelse,12198574,Alliansen
+2015,Expense,Samhällsekonomi och finansförvaltning,14599953,Alliansen
+2015,Expense,Skatt tull och exekution,10573781,Alliansen
+2015,Expense,Rättsväsendet,40757864,Alliansen
+2015,Expense,Internationell samverkan,1919062,Alliansen
+2015,Expense,Försvar och samhällets krisberedskap,48451160,Alliansen
+2015,Expense,Internationellt bistånd,29508686,Alliansen
+2015,Expense,Migration,17433309,Alliansen
+2015,Expense,Hälsovård sjukvård och social omsorg,61898497,Alliansen
+2015,Expense,Ekonomisk trygghet sjukdom funktionsneds,100474087,Alliansen
+2015,Expense,Ekonomisk trygghet vid ålderdom,38015425,Alliansen
+2015,Expense,Ekonomisk trygghet för familjer och barn,83124698,Alliansen
+2015,Expense,Integration och jämställdhet,16747043,Alliansen
+2015,Expense,Arbetsmarknad och arbetsliv,67783102,Alliansen
+2015,Expense,Studiestöd,20302280,Alliansen
+2015,Expense,Utbildning och universitetsforskning,63635525,Alliansen
+2015,Expense,Kultur medier trossamfund och fritid,12785347,Alliansen
+2015,Expense,Samhällsplanering bostadsförsörjning,1207973,Alliansen
+2015,Expense,Regional tillväxt,2700801,Alliansen
+2015,Expense,Allmän miljö- och naturvård,5348118,Alliansen
+2015,Expense,Energi,2469609,Alliansen
+2015,Expense,Kommunikationer,48870983,Alliansen
+2015,Expense,Areella näringar landsbygd och livsmedel,15656027,Alliansen
+2015,Expense,Näringsliv,5309162,Alliansen
+2015,Expense,Allmänna bidrag till kommuner,91329002,Alliansen
+2015,Expense,Statsskuldsräntor m.m.,20526200,Alliansen
+2015,Expense,Avgiften till Europeiska unionen,40126178,Alliansen
+2015,Income,1100 Direkta skatter på arbete,565998256,Redgreen
+2015,Income,1200 Indirekta skatter på arbete,500101604,Redgreen
+2015,Income,1300 Skatt på kapital,189562100,Redgreen
+2015,Income,1400 Skatt på konsumtion och insatsvaror,494501021,Redgreen
+2015,Income,1500 Skatt på import,5956256,Redgreen
+2015,Income,1600 Restförda och övriga skatter,3407314,Redgreen
+2015,Income,1700 Avgående poster skatter till EU,-5956256,Redgreen
+2015,Income,1800 Avgående poster skatter till andra sektorer,-874239217,Redgreen
+2015,Income,1900 Periodiseringar,-3158187,Redgreen
+2015,Income,2000 Inkomster av statens verksamhet,33649944,Redgreen
+2015,Income,3000 Inkomster av försåld egendom,15000000,Redgreen
+2015,Income,4000 Återbetalning av lån,875900,Redgreen
+2015,Income,5000 Kalkylmässiga inkomster,9998000,Redgreen
+2015,Income,6000 Bidrag m.m. från EU,10332700,Redgreen
+2015,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-83523685,Redgreen
+2015,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,-8431911,Redgreen
+2015,Expense,Rikets styrelse,12413383,Redgreen
+2015,Expense,Samhällsekonomi och finansförvaltning,14589790,Redgreen
+2015,Expense,Skatt tull och exekution,10580976,Redgreen
+2015,Expense,Rättsväsendet,40757864,Redgreen
+2015,Expense,Internationell samverkan,1899062,Redgreen
+2015,Expense,Försvar och samhällets krisberedskap,48588647,Redgreen
+2015,Expense,Internationellt bistånd,30009056,Redgreen
+2015,Expense,Migration,17433309,Redgreen
+2015,Expense,Hälsovård sjukvård och social omsorg,64441159,Redgreen
+2015,Expense,Ekonomisk trygghet sjukdom funktionsneds,101016487,Redgreen
+2015,Expense,Ekonomisk trygghet vid ålderdom,38166036,Redgreen
+2015,Expense,Ekonomisk trygghet för familjer och barn,83908698,Redgreen
+2015,Expense,Integration och jämställdhet,16807043,Redgreen
+2015,Expense,Arbetsmarknad och arbetsliv,71846204,Redgreen
+2015,Expense,Studiestöd,21177307,Redgreen
+2015,Expense,Utbildning och universitetsforskning,64152606,Redgreen
+2015,Expense,Kultur medier trossamfund och fritid,13150941,Redgreen
+2015,Expense,Samhällsplanering bostadsförsörjning,1508973,Redgreen
+2015,Expense,Regional tillväxt,2700801,Redgreen
+2015,Expense,Allmän miljö- och naturvård,6881418,Redgreen
+2015,Expense,Energi,2495609,Redgreen
+2015,Expense,Kommunikationer,50078203,Redgreen
+2015,Expense,Areella näringar landsbygd och livsmedel,15787422,Redgreen
+2015,Expense,Näringsliv,5366162,Redgreen
+2015,Expense,Allmänna bidrag till kommuner,94490852,Redgreen
+2015,Expense,Statsskuldsräntor m.m.,20526200,Redgreen
+2015,Expense,Avgiften till Europeiska unionen,40126178,Redgreen
+2018,Expense,Rikets styrelse,14426335,L
+2018,Expense,Samhällsekonomi och finansförvaltning,15951497,L
+2018,Expense,Skatt tull och exekution,11408384,L
+2018,Expense,Rättsväsendet,48600783,L
+2018,Expense,Internationell samverkan,1997032,L
+2018,Expense,Försvar och samhällets krisberedskap,55022520,L
+2018,Expense,Internationellt bistånd,42985209,L
+2018,Expense,Migration,15404230,L
+2018,Expense,Hälsovård sjukvård och social omsorg,78811041,L
+2018,Expense,Ekonomisk trygghet sjukdom funktionsneds,96401229,L
+2018,Expense,Ekonomisk trygghet vid ålderdom,34455669,L
+2018,Expense,Ekonomisk trygghet för familjer och barn,95059418,L
+2018,Expense,Integration och jämställdhet,26899209,L
+2018,Expense,Arbetsmarknad och arbetsliv,62106440,L
+2018,Expense,Studiestöd,20433908,L
+2018,Expense,Utbildning och universitetsforskning,77322638,L
+2018,Expense,Kultur medier trossamfund och fritid,15212752,L
+2018,Expense,Samhällsplanering bostadsförsörjning,2872648,L
+2018,Expense,Regional tillväxt,3308525,L
+2018,Expense,Allmän miljö- och naturvård,7664788,L
+2018,Expense,Energi,2688354,L
+2018,Expense,Kommunikationer,54964505,L
+2018,Expense,Areella näringar landsbygd och livsmedel,18242779,L
+2018,Expense,Näringsliv,5772651,L
+2018,Expense,Allmänna bidrag till kommuner,114695385,L
+2018,Expense,Statsskuldsräntor m.m.,11408200,L
+2018,Expense,Avgiften till Europeiska unionen,39510631,L
+2018,Income,1100 Direkta skatter på arbete,637795381,L
+2018,Income,1200 Indirekta skatter på arbete,581780420,L
+2018,Income,1300 Skatt på kapital,257292596,L
+2018,Income,1400 Skatt på konsumtion och insatsvaror,583812265,L
+2018,Income,1500 Skatt på import,6812759,L
+2018,Income,1600 Restförda och övriga skatter,15254541,L
+2018,Income,1700 Avgående poster skatter till EU,-6812759,L
+2018,Income,1800 Avgående poster skatter till andra sektorer,-1000458690,L
+2018,Income,1900 Periodiseringar,-6990001,L
+2018,Income,2000 Inkomster av statens verksamhet,30433948,L
+2018,Income,3000 Inkomster av försåld egendom,5000000,L
+2018,Income,4000 Återbetalning av lån,766470,L
+2018,Income,5000 Kalkylmässiga inkomster,11873000,L
+2018,Income,6000 Bidrag m.m. från EU,12910157,L
+2018,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-103711910,L
+2018,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,L
+2018,Income,1100 Direkta skatter på arbete,631201651,KD
+2018,Income,1200 Indirekta skatter på arbete,581564820,KD
+2018,Income,1300 Skatt på kapital,257133596,KD
+2018,Income,1400 Skatt på konsumtion och insatsvaror,599533265,KD
+2018,Income,1500 Skatt på import,6812759,KD
+2018,Income,1600 Restförda och övriga skatter,15254541,KD
+2018,Income,1700 Avgående poster skatter till EU,-6812759,KD
+2018,Income,1800 Avgående poster skatter till andra sektorer,-1020292960,KD
+2018,Income,1900 Periodiseringar,-6990001,KD
+2018,Income,2000 Inkomster av statens verksamhet,30733948,KD
+2018,Income,3000 Inkomster av försåld egendom,5000000,KD
+2018,Income,4000 Återbetalning av lån,766470,KD
+2018,Income,5000 Kalkylmässiga inkomster,11873000,KD
+2018,Income,6000 Bidrag m.m. från EU,12910157,KD
+2018,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-103711910,KD
+2018,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,KD
+2018,Expense,Rikets styrelse,14280185,KD
+2018,Expense,Samhällsekonomi och finansförvaltning,16045547,KD
+2018,Expense,Skatt tull och exekution,11348384,KD
+2018,Expense,Rättsväsendet,45926783,KD
+2018,Expense,Internationell samverkan,1963032,KD
+2018,Expense,Försvar och samhällets krisberedskap,54375520,KD
+2018,Expense,Internationellt bistånd,42993709,KD
+2018,Expense,Migration,17261230,KD
+2018,Expense,Hälsovård sjukvård och social omsorg,86428041,KD
+2018,Expense,Ekonomisk trygghet sjukdom funktionsneds,98669229,KD
+2018,Expense,Ekonomisk trygghet vid ålderdom,36173669,KD
+2018,Expense,Ekonomisk trygghet för familjer och barn,97943418,KD
+2018,Expense,Integration och jämställdhet,24667909,KD
+2018,Expense,Arbetsmarknad och arbetsliv,65941907,KD
+2018,Expense,Studiestöd,20540692,KD
+2018,Expense,Utbildning och universitetsforskning,78737638,KD
+2018,Expense,Kultur medier trossamfund och fritid,15056752,KD
+2018,Expense,Samhällsplanering bostadsförsörjning,2814648,KD
+2018,Expense,Regional tillväxt,3425525,KD
+2018,Expense,Allmän miljö- och naturvård,7202788,KD
+2018,Expense,Energi,2905354,KD
+2018,Expense,Kommunikationer,55812705,KD
+2018,Expense,Areella näringar landsbygd och livsmedel,18456279,KD
+2018,Expense,Näringsliv,6053134,KD
+2018,Expense,Allmänna bidrag till kommuner,85918385,KD
+2018,Expense,Statsskuldsräntor m.m.,11355200,KD
+2018,Expense,Avgiften till Europeiska unionen,39510631,KD
+2018,Income,1100 Direkta skatter på arbete,626281381,SD
+2018,Income,1200 Indirekta skatter på arbete,579371420,SD
+2018,Income,1300 Skatt på kapital,255487596,SD
+2018,Income,1400 Skatt på konsumtion och insatsvaror,594250265,SD
+2018,Income,1500 Skatt på import,6812759,SD
+2018,Income,1600 Restförda och övriga skatter,14884541,SD
+2018,Income,1700 Avgående poster skatter till EU,-6812759,SD
+2018,Income,1800 Avgående poster skatter till andra sektorer,-1020050690,SD
+2018,Income,1900 Periodiseringar,-6990001,SD
+2018,Income,2000 Inkomster av statens verksamhet,27723948,SD
+2018,Income,3000 Inkomster av försåld egendom,5000000,SD
+2018,Income,4000 Återbetalning av lån,766470,SD
+2018,Income,5000 Kalkylmässiga inkomster,11873000,SD
+2018,Income,6000 Bidrag m.m. från EU,12910157,SD
+2018,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-103711910,SD
+2018,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,SD
+2018,Expense,Rikets styrelse,13895535,SD
+2018,Expense,Samhällsekonomi och finansförvaltning,16273547,SD
+2018,Expense,Skatt tull och exekution,11753384,SD
+2018,Expense,Rättsväsendet,48426783,SD
+2018,Expense,Internationell samverkan,3020032,SD
+2018,Expense,Försvar och samhällets krisberedskap,57835520,SD
+2018,Expense,Internationellt bistånd,43235209,SD
+2018,Expense,Migration,9951554,SD
+2018,Expense,Hälsovård sjukvård och social omsorg,81244041,SD
+2018,Expense,Ekonomisk trygghet sjukdom funktionsneds,105389229,SD
+2018,Expense,Ekonomisk trygghet vid ålderdom,38780669,SD
+2018,Expense,Ekonomisk trygghet för familjer och barn,91365731,SD
+2018,Expense,Integration och jämställdhet,10151538,SD
+2018,Expense,Arbetsmarknad och arbetsliv,63575237,SD
+2018,Expense,Studiestöd,23777692,SD
+2018,Expense,Utbildning och universitetsforskning,78433638,SD
+2018,Expense,Kultur medier trossamfund och fritid,15349470,SD
+2018,Expense,Samhällsplanering bostadsförsörjning,2601648,SD
+2018,Expense,Regional tillväxt,3921525,SD
+2018,Expense,Allmän miljö- och naturvård,7332788,SD
+2018,Expense,Energi,2683354,SD
+2018,Expense,Kommunikationer,58418505,SD
+2018,Expense,Areella näringar landsbygd och livsmedel,19343779,SD
+2018,Expense,Näringsliv,7020651,SD
+2018,Expense,Allmänna bidrag till kommuner,87738785,SD
+2018,Expense,Statsskuldsräntor m.m.,11355200,SD
+2018,Expense,Avgiften till Europeiska unionen,39510631,SD
+2018,Income,1100 Direkta skatter på arbete,640749381,C
+2018,Income,1200 Indirekta skatter på arbete,562377420,C
+2018,Income,1300 Skatt på kapital,257882596,C
+2018,Income,1400 Skatt på konsumtion och insatsvaror,583658265,C
+2018,Income,1500 Skatt på import,6812759,C
+2018,Income,1600 Restförda och övriga skatter,14977541,C
+2018,Income,1700 Avgående poster skatter till EU,-6812759,C
+2018,Income,1800 Avgående poster skatter till andra sektorer,-995269690,C
+2018,Income,1900 Periodiseringar,-6990001,C
+2018,Income,2000 Inkomster av statens verksamhet,30633948,C
+2018,Income,3000 Inkomster av försåld egendom,5000000,C
+2018,Income,4000 Återbetalning av lån,766470,C
+2018,Income,5000 Kalkylmässiga inkomster,11873000,C
+2018,Income,6000 Bidrag m.m. från EU,12910157,C
+2018,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-103414910,C
+2018,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,C
+2018,Expense,Rikets styrelse,14108675,C
+2018,Expense,Samhällsekonomi och finansförvaltning,15956657,C
+2018,Expense,Skatt tull och exekution,11257394,C
+2018,Expense,Rättsväsendet,46715083,C
+2018,Expense,Internationell samverkan,1945372,C
+2018,Expense,Försvar och samhällets krisberedskap,53832520,C
+2018,Expense,Internationellt bistånd,42985209,C
+2018,Expense,Migration,15703200,C
+2018,Expense,Hälsovård sjukvård och social omsorg,69870821,C
+2018,Expense,Ekonomisk trygghet sjukdom funktionsneds,93820049,C
+2018,Expense,Ekonomisk trygghet vid ålderdom,33850589,C
+2018,Expense,Ekonomisk trygghet för familjer och barn,93283418,C
+2018,Expense,Integration och jämställdhet,25194854,C
+2018,Expense,Arbetsmarknad och arbetsliv,62089044,C
+2018,Expense,Studiestöd,22830792,C
+2018,Expense,Utbildning och universitetsforskning,74234695,C
+2018,Expense,Kultur medier trossamfund och fritid,14978058,C
+2018,Expense,Samhällsplanering bostadsförsörjning,2894649,C
+2018,Expense,Regional tillväxt,3414525,C
+2018,Expense,Allmän miljö- och naturvård,8342668,C
+2018,Expense,Energi,3438224,C
+2018,Expense,Kommunikationer,54949495,C
+2018,Expense,Areella näringar landsbygd och livsmedel,19212059,C
+2018,Expense,Näringsliv,6760241,C
+2018,Expense,Allmänna bidrag till kommuner,118395385,C
+2018,Expense,Statsskuldsräntor m.m.,11355200,C
+2018,Expense,Avgiften till Europeiska unionen,39510631,C
+2018,Income,1100 Direkta skatter på arbete,629545381,M
+2018,Income,1200 Indirekta skatter på arbete,583648420,M
+2018,Income,1300 Skatt på kapital,254014396,M
+2018,Income,1400 Skatt på konsumtion och insatsvaror,582535265,M
+2018,Income,1500 Skatt på import,6812759,M
+2018,Income,1600 Restförda och övriga skatter,15324541,M
+2018,Income,1700 Avgående poster skatter till EU,-6812759,M
+2018,Income,1800 Avgående poster skatter till andra sektorer,-996023690,M
+2018,Income,1900 Periodiseringar,-6990001,M
+2018,Income,2000 Inkomster av statens verksamhet,30533948,M
+2018,Income,3000 Inkomster av försåld egendom,5000000,M
+2018,Income,4000 Återbetalning av lån,766470,M
+2018,Income,5000 Kalkylmässiga inkomster,11873000,M
+2018,Income,6000 Bidrag m.m. från EU,12910157,M
+2018,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-103711910,M
+2018,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,M
+2018,Expense,Rikets styrelse,14360335,M
+2018,Expense,Samhällsekonomi och finansförvaltning,16184547,M
+2018,Expense,Skatt tull och exekution,11444384,M
+2018,Expense,Rättsväsendet,46138083,M
+2018,Expense,Internationell samverkan,2009032,M
+2018,Expense,Försvar och samhällets krisberedskap,53835520,M
+2018,Expense,Internationellt bistånd,39562209,M
+2018,Expense,Migration,15172630,M
+2018,Expense,Hälsovård sjukvård och social omsorg,76239041,M
+2018,Expense,Ekonomisk trygghet sjukdom funktionsneds,93213129,M
+2018,Expense,Ekonomisk trygghet vid ålderdom,34235669,M
+2018,Expense,Ekonomisk trygghet för familjer och barn,94302918,M
+2018,Expense,Integration och jämställdhet,25245346,M
+2018,Expense,Arbetsmarknad och arbetsliv,65571040,M
+2018,Expense,Studiestöd,22915952,M
+2018,Expense,Utbildning och universitetsforskning,75372966,M
+2018,Expense,Kultur medier trossamfund och fritid,14657892,M
+2018,Expense,Samhällsplanering bostadsförsörjning,2896248,M
+2018,Expense,Regional tillväxt,3879525,M
+2018,Expense,Allmän miljö- och naturvård,7485788,M
+2018,Expense,Energi,2353354,M
+2018,Expense,Kommunikationer,56032705,M
+2018,Expense,Areella näringar landsbygd och livsmedel,18463779,M
+2018,Expense,Näringsliv,6532651,M
+2018,Expense,Allmänna bidrag till kommuner,116764385,M
+2018,Expense,Statsskuldsräntor m.m.,11355200,M
+2018,Expense,Avgiften till Europeiska unionen,39510631,M
+2019,Expense,Rikets styrelse,14831145,KD
+2019,Expense,Samhällsekonomi och finansförvaltning,17182466,KD
+2019,Expense,Skatt tull och exekution,11562533,KD
+2019,Expense,Rättsväsendet,48242859,KD
+2019,Expense,Internationell samverkan,2317277,KD
+2019,Expense,Försvar och samhällets krisberedskap,57295704,KD
+2019,Expense,Internationellt bistånd,44953640,KD
+2019,Expense,Migration,12643430,KD
+2019,Expense,Hälsovård sjukvård och social omsorg,87997775,KD
+2019,Expense,Ekonomisk trygghet sjukdom funktionsneds,96863012,KD
+2019,Expense,Ekonomisk trygghet vid ålderdom,36591476,KD
+2019,Expense,Ekonomisk trygghet för familjer och barn,100210203,KD
+2019,Expense,Integration och jämställdhet,17308988,KD
+2019,Expense,Arbetsmarknad och arbetsliv,69183657,KD
+2019,Expense,Studiestöd,21605956,KD
+2019,Expense,Utbildning och universitetsforskning,83090611,KD
+2019,Expense,Kultur medier trossamfund och fritid,15122031,KD
+2019,Expense,Samhällsplanering bostadsförsörjning,4584123,KD
+2019,Expense,Regional tillväxt,3496525,KD
+2019,Expense,Allmän miljö- och naturvård,8906248,KD
+2019,Expense,Energi,3404947,KD
+2019,Expense,Kommunikationer,59297655,KD
+2019,Expense,Areella näringar landsbygd och livsmedel,20219781,KD
+2019,Expense,Näringsliv,6474117,KD
+2019,Expense,Allmänna bidrag till kommuner,123966772,KD
+2019,Expense,Statsskuldsräntor m.m.,25155200,KD
+2019,Expense,Avgiften till Europeiska unionen,40913834,KD
+2019,Income,1100 Direkta skatter på arbete,650821637,KD
+2019,Income,1200 Indirekta skatter på arbete,610423980,KD
+2019,Income,1300 Skatt på kapital,274119659,KD
+2019,Income,1400 Skatt på konsumtion och insatsvaror,611996447,KD
+2019,Income,1500 Skatt på import,7125058,KD
+2019,Income,1600 Restförda och övriga skatter,21505121,KD
+2019,Income,1700 Avgående poster skatter till EU,-7125059,KD
+2019,Income,1800 Avgående poster skatter till andra sektorer,-1040307239,KD
+2019,Income,1900 Periodiseringar,8365786,KD
+2019,Income,2000 Inkomster av statens verksamhet,32436178,KD
+2019,Income,3000 Inkomster av försåld egendom,5000000,KD
+2019,Income,4000 Återbetalning av lån,716774,KD
+2019,Income,5000 Kalkylmässiga inkomster,14194000,KD
+2019,Income,6000 Bidrag m.m. från EU,12521658,KD
+2019,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-112758867,KD
+2019,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,KD
+2019,Expense,Rikets styrelse,14911645,C
+2019,Expense,Samhällsekonomi och finansförvaltning,17191466,C
+2019,Expense,Skatt tull och exekution,11412533,C
+2019,Expense,Rättsväsendet,48442859,C
+2019,Expense,Internationell samverkan,2362277,C
+2019,Expense,Försvar och samhällets krisberedskap,59674704,C
+2019,Expense,Internationellt bistånd,44945140,C
+2019,Expense,Migration,12303430,C
+2019,Expense,Hälsovård sjukvård och social omsorg,78422185,C
+2019,Expense,Ekonomisk trygghet sjukdom funktionsneds,97073012,C
+2019,Expense,Ekonomisk trygghet vid ålderdom,34050476,C
+2019,Expense,Ekonomisk trygghet för familjer och barn,97339203,C
+2019,Expense,Integration och jämställdhet,18486483,C
+2019,Expense,Arbetsmarknad och arbetsliv,74801772,C
+2019,Expense,Studiestöd,24602956,C
+2019,Expense,Utbildning och universitetsforskning,80667211,C
+2019,Expense,Kultur medier trossamfund och fritid,15994531,C
+2019,Expense,Samhällsplanering bostadsförsörjning,3597123,C
+2019,Expense,Regional tillväxt,3496525,C
+2019,Expense,Allmän miljö- och naturvård,12536248,C
+2019,Expense,Energi,3594947,C
+2019,Expense,Kommunikationer,59456655,C
+2019,Expense,Areella näringar landsbygd och livsmedel,21832281,C
+2019,Expense,Näringsliv,7266717,C
+2019,Expense,Allmänna bidrag till kommuner,119312772,C
+2019,Expense,Statsskuldsräntor m.m.,25155200,C
+2019,Expense,Avgiften till Europeiska unionen,40913834,C
+2019,Income,1100 Direkta skatter på arbete,671881646,C
+2019,Income,1200 Indirekta skatter på arbete,604027447,C
+2019,Income,1300 Skatt på kapital,271931659,C
+2019,Income,1400 Skatt på konsumtion och insatsvaror,596016447,C
+2019,Income,1500 Skatt på import,7125058,C
+2019,Income,1600 Restförda och övriga skatter,21845121,C
+2019,Income,1700 Avgående poster skatter till EU,-7125059,C
+2019,Income,1800 Avgående poster skatter till andra sektorer,-1039367295,C
+2019,Income,1900 Periodiseringar,8365786,C
+2019,Income,2000 Inkomster av statens verksamhet,32436178,C
+2019,Income,3000 Inkomster av försåld egendom,5000000,C
+2019,Income,4000 Återbetalning av lån,716774,C
+2019,Income,5000 Kalkylmässiga inkomster,14194000,C
+2019,Income,6000 Bidrag m.m. från EU,12521658,C
+2019,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-112758867,C
+2019,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,C
+2019,Expense,Rikets styrelse,14371445,SD
+2019,Expense,Samhällsekonomi och finansförvaltning,17792466,SD
+2019,Expense,Skatt tull och exekution,11952533,SD
+2019,Expense,Rättsväsendet,51111859,SD
+2019,Expense,Internationell samverkan,2382277,SD
+2019,Expense,Försvar och samhällets krisberedskap,63691782,SD
+2019,Expense,Internationellt bistånd,33672140,SD
+2019,Expense,Migration,13010281,SD
+2019,Expense,Hälsovård sjukvård och social omsorg,84067185,SD
+2019,Expense,Ekonomisk trygghet sjukdom funktionsneds,102132012,SD
+2019,Expense,Ekonomisk trygghet vid ålderdom,41150476,SD
+2019,Expense,Ekonomisk trygghet för familjer och barn,100075203,SD
+2019,Expense,Integration och jämställdhet,10671159,SD
+2019,Expense,Arbetsmarknad och arbetsliv,74798270,SD
+2019,Expense,Studiestöd,24142956,SD
+2019,Expense,Utbildning och universitetsforskning,82017211,SD
+2019,Expense,Kultur medier trossamfund och fritid,15575839,SD
+2019,Expense,Samhällsplanering bostadsförsörjning,5943123,SD
+2019,Expense,Regional tillväxt,4016525,SD
+2019,Expense,Allmän miljö- och naturvård,7844248,SD
+2019,Expense,Energi,2839947,SD
+2019,Expense,Kommunikationer,61991655,SD
+2019,Expense,Areella näringar landsbygd och livsmedel,20284281,SD
+2019,Expense,Näringsliv,6973717,SD
+2019,Expense,Allmänna bidrag till kommuner,100343772,SD
+2019,Expense,Statsskuldsräntor m.m.,25155200,SD
+2019,Expense,Avgiften till Europeiska unionen,40913834,SD
+2019,Income,1100 Direkta skatter på arbete,659895646,SD
+2019,Income,1200 Indirekta skatter på arbete,605450447,SD
+2019,Income,1300 Skatt på kapital,273144659,SD
+2019,Income,1400 Skatt på konsumtion och insatsvaror,606363447,SD
+2019,Income,1500 Skatt på import,7125058,SD
+2019,Income,1600 Restförda och övriga skatter,21135121,SD
+2019,Income,1700 Avgående poster skatter till EU,-7125059,SD
+2019,Income,1800 Avgående poster skatter till andra sektorer,-1068943295,SD
+2019,Income,1900 Periodiseringar,8365786,SD
+2019,Income,2000 Inkomster av statens verksamhet,30136178,SD
+2019,Income,3000 Inkomster av försåld egendom,5000000,SD
+2019,Income,4000 Återbetalning av lån,716774,SD
+2019,Income,5000 Kalkylmässiga inkomster,14194000,SD
+2019,Income,6000 Bidrag m.m. från EU,12521658,SD
+2019,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-112758867,SD
+2019,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,SD
+2019,Expense,Rikets styrelse,14779645,L
+2019,Expense,Samhällsekonomi och finansförvaltning,17141466,L
+2019,Expense,Skatt tull och exekution,11524533,L
+2019,Expense,Rättsväsendet,50183859,L
+2019,Expense,Internationell samverkan,2360277,L
+2019,Expense,Försvar och samhällets krisberedskap,60377704,L
+2019,Expense,Internationellt bistånd,44945140,L
+2019,Expense,Migration,13460430,L
+2019,Expense,Hälsovård sjukvård och social omsorg,82111185,L
+2019,Expense,Ekonomisk trygghet sjukdom funktionsneds,91738012,L
+2019,Expense,Ekonomisk trygghet vid ålderdom,34349476,L
+2019,Expense,Ekonomisk trygghet för familjer och barn,97363203,L
+2019,Expense,Integration och jämställdhet,18229483,L
+2019,Expense,Arbetsmarknad och arbetsliv,67612439,L
+2019,Expense,Studiestöd,24246956,L
+2019,Expense,Utbildning och universitetsforskning,84195211,L
+2019,Expense,Kultur medier trossamfund och fritid,16381531,L
+2019,Expense,Samhällsplanering bostadsförsörjning,3626263,L
+2019,Expense,Regional tillväxt,3421525,L
+2019,Expense,Allmän miljö- och naturvård,9803248,L
+2019,Expense,Energi,2615947,L
+2019,Expense,Kommunikationer,58697655,L
+2019,Expense,Areella näringar landsbygd och livsmedel,19364781,L
+2019,Expense,Näringsliv,6924217,L
+2019,Expense,Allmänna bidrag till kommuner,117994772,L
+2019,Expense,Statsskuldsräntor m.m.,25194200,L
+2019,Expense,Avgiften till Europeiska unionen,40913834,L
+2019,Income,1100 Direkta skatter på arbete,655063979,L
+2019,Income,1200 Indirekta skatter på arbete,605813447,L
+2019,Income,1300 Skatt på kapital,275702659,L
+2019,Income,1400 Skatt på konsumtion och insatsvaror,598049447,L
+2019,Income,1500 Skatt på import,7125058,L
+2019,Income,1600 Restförda och övriga skatter,21135121,L
+2019,Income,1700 Avgående poster skatter till EU,-7125059,L
+2019,Income,1800 Avgående poster skatter till andra sektorer,-1039029628,L
+2019,Income,1900 Periodiseringar,8365786,L
+2019,Income,2000 Inkomster av statens verksamhet,32136178,L
+2019,Income,3000 Inkomster av försåld egendom,5000000,L
+2019,Income,4000 Återbetalning av lån,716774,L
+2019,Income,5000 Kalkylmässiga inkomster,14194000,L
+2019,Income,6000 Bidrag m.m. från EU,12521658,L
+2019,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-112758867,L
+2019,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,L
+2019,Expense,Rikets styrelse,14744645,M
+2019,Expense,Samhällsekonomi och finansförvaltning,17318966,M
+2019,Expense,Skatt tull och exekution,11552533,M
+2019,Expense,Rättsväsendet,48586859,M
+2019,Expense,Internationell samverkan,2362277,M
+2019,Expense,Försvar och samhällets krisberedskap,60089704,M
+2019,Expense,Internationellt bistånd,43745140,M
+2019,Expense,Migration,11767430,M
+2019,Expense,Hälsovård sjukvård och social omsorg,79072185,M
+2019,Expense,Ekonomisk trygghet sjukdom funktionsneds,97657012,M
+2019,Expense,Ekonomisk trygghet vid ålderdom,34450476,M
+2019,Expense,Ekonomisk trygghet för familjer och barn,97332203,M
+2019,Expense,Integration och jämställdhet,17967483,M
+2019,Expense,Arbetsmarknad och arbetsliv,73914772,M
+2019,Expense,Studiestöd,24669156,M
+2019,Expense,Utbildning och universitetsforskning,81059211,M
+2019,Expense,Kultur medier trossamfund och fritid,15766531,M
+2019,Expense,Samhällsplanering bostadsförsörjning,4727123,M
+2019,Expense,Regional tillväxt,3496525,M
+2019,Expense,Allmän miljö- och naturvård,10072248,M
+2019,Expense,Energi,3198947,M
+2019,Expense,Kommunikationer,59358655,M
+2019,Expense,Areella näringar landsbygd och livsmedel,21000281,M
+2019,Expense,Näringsliv,7386717,M
+2019,Expense,Allmänna bidrag till kommuner,122092772,M
+2019,Expense,Statsskuldsräntor m.m.,25155200,M
+2019,Expense,Avgiften till Europeiska unionen,40913834,M
+2019,Income,1100 Direkta skatter på arbete,665560646,M
+2019,Income,1200 Indirekta skatter på arbete,606574447,M
+2019,Income,1300 Skatt på kapital,271563659,M
+2019,Income,1400 Skatt på konsumtion och insatsvaror,594308447,M
+2019,Income,1500 Skatt på import,7125058,M
+2019,Income,1600 Restförda och övriga skatter,21505121,M
+2019,Income,1700 Avgående poster skatter till EU,-7125059,M
+2019,Income,1800 Avgående poster skatter till andra sektorer,-1037143295,M
+2019,Income,1900 Periodiseringar,8365786,M
+2019,Income,2000 Inkomster av statens verksamhet,32536178,M
+2019,Income,3000 Inkomster av försåld egendom,5000000,M
+2019,Income,4000 Återbetalning av lån,716774,M
+2019,Income,5000 Kalkylmässiga inkomster,14194000,M
+2019,Income,6000 Bidrag m.m. från EU,12521658,M
+2019,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-112758867,M
+2019,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,M
+2019,Expense,Rikets styrelse,14901645,Redgreen
+2019,Expense,Samhällsekonomi och finansförvaltning,17315466,Redgreen
+2019,Expense,Skatt tull och exekution,11402533,Redgreen
+2019,Expense,Rättsväsendet,46342859,Redgreen
+2019,Expense,Internationell samverkan,2362277,Redgreen
+2019,Expense,Försvar och samhällets krisberedskap,56190704,Redgreen
+2019,Expense,Internationellt bistånd,44945140,Redgreen
+2019,Expense,Migration,13573430,Redgreen
+2019,Expense,Hälsovård sjukvård och social omsorg,78122185,Redgreen
+2019,Expense,Ekonomisk trygghet sjukdom funktionsneds,97657012,Redgreen
+2019,Expense,Ekonomisk trygghet vid ålderdom,34450476,Redgreen
+2019,Expense,Ekonomisk trygghet för familjer och barn,97332203,Redgreen
+2019,Expense,Integration och jämställdhet,18486483,Redgreen
+2019,Expense,Arbetsmarknad och arbetsliv,76814772,Redgreen
+2019,Expense,Studiestöd,25022956,Redgreen
+2019,Expense,Utbildning och universitetsforskning,81347211,Redgreen
+2019,Expense,Kultur medier trossamfund och fritid,15994531,Redgreen
+2019,Expense,Samhällsplanering bostadsförsörjning,6972123,Redgreen
+2019,Expense,Regional tillväxt,3496525,Redgreen
+2019,Expense,Allmän miljö- och naturvård,11836248,Redgreen
+2019,Expense,Energi,3594947,Redgreen
+2019,Expense,Kommunikationer,59456655,Redgreen
+2019,Expense,Areella näringar landsbygd och livsmedel,19787281,Redgreen
+2019,Expense,Näringsliv,7266717,Redgreen
+2019,Expense,Allmänna bidrag till kommuner,115892772,Redgreen
+2019,Expense,Statsskuldsräntor m.m.,25155200,Redgreen
+2019,Expense,Avgiften till Europeiska unionen,40913834,Redgreen
+2019,Income,1100 Direkta skatter på arbete,679003646,Redgreen
+2019,Income,1200 Indirekta skatter på arbete,607653447,Redgreen
+2019,Income,1300 Skatt på kapital,271461659,Redgreen
+2019,Income,1400 Skatt på konsumtion och insatsvaror,595936447,Redgreen
+2019,Income,1500 Skatt på import,7125058,Redgreen
+2019,Income,1600 Restförda och övriga skatter,21505121,Redgreen
+2019,Income,1700 Avgående poster skatter till EU,-7125059,Redgreen
+2019,Income,1800 Avgående poster skatter till andra sektorer,-1038636295,Redgreen
+2019,Income,1900 Periodiseringar,8365786,Redgreen
+2019,Income,2000 Inkomster av statens verksamhet,32536178,Redgreen
+2019,Income,3000 Inkomster av försåld egendom,5000000,Redgreen
+2019,Income,4000 Återbetalning av lån,716774,Redgreen
+2019,Income,5000 Kalkylmässiga inkomster,14194000,Redgreen
+2019,Income,6000 Bidrag m.m. från EU,12521658,Redgreen
+2019,Income,7000 Avräkningar m.m. i anslutning till skattesystemet,-112758867,Redgreen
+2019,Income,8000 Utgifter som redovisas som krediteringar på skattekonto,0,Redgreen
